@@ -2,3 +2,9 @@
 
 ## Źródło
 - "PSYCHOefekty. 50 zjawisk psychologicznych, które wpływają na Twoje życie" ~ Kamil Zieliński
+
+## Efekty psychologiczne
+
+### Atrybucje
+
+### Autoprezentacja
