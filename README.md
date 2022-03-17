@@ -1,10 +1,6 @@
-# Notatki na temat ludzkiego umysłu
+# Notatki na temat produktywności
 
 ## Źródło
-- "PSYCHOefekty. 50 zjawisk psychologicznych, które wpływają na Twoje życie" ~ Kamil Zieliński
+- " Nawyk nieodwlekania. Proste sposoby pokonania prokrastynacji" - S.J. Scott
 
-## Efekty psychologiczne
-
-### Atrybucje
-
-### Autoprezentacja
+## Prokrastynacja
