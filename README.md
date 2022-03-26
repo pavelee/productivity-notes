@@ -97,4 +97,17 @@
 
 #### Niski poziom energii
 
+-   Często zapominamy, że niski poziom energii negatywnie wpływa na nasze zdolności koncentracji
+-   Długotrwałe skupienie na określonym zadaniu wymaga mnóstwa sił
+-   Energii nam brakuje
+    -   bez dobrego posiłku
+    -   satysfakcująco długiego snu
+    -   regularnych ćwiczeń fizycznych
+- niestety zapominamy o tych czynnościach
+    -   jemy nie zdrowo
+    -   wykonujemy czynności kosztem snu
+        -   często zapychacze czasu np. oglądanie seriali
+    -   ruszamy się za mało na świeżym powietrzu
+-   Potrzebujemy odżywionego i sprawnego umysłu do koncentracji
+
 #### Brak kontroli
