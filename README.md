@@ -5,7 +5,12 @@
     -   [Co się składa na koncentracje?](#co-się-składa-na-koncentracje?)
         -   [Uwaga dowolona i mimowolna](#uwaga-dowolona-i-mimowolna)
         -   [Uwaga szeroka i skupiona](#uwaga-szeroka-i-skupiona)
-    -   [Najczęstsze przyczyny braku koncentracji](#najczęstsze-przyczyny-braku-koncentracji)
+    -   [5 najczęstszych przyczyn utraty koncentracji](#5-najczęstszych-przyczyn-utraty-koncentracji)
+        -   [Brak zainteresowania](#brak-zainteresowania)
+        -   [Negatywne emocje](#negatywne-emocje)
+        -   [Słaba organizacja](#słaba-organizacja)
+        -   [Niski poziom energii](#niski-poziom-energii)
+    -   [10 typowych przeszkód na drodze do utrzymania koncentracji](#10-typowych-przeszkód-na-drodze-do-utrzymania-koncentracji)
 -   [Prokrastynacja](#prokrastynacja)
 
 ## Źródło
@@ -66,7 +71,7 @@
         -   Tylko skupienie się na szerokiej perspektywie grozi tym że nie zauważysz istotnych szczegółów
         -   Tylko skupienie się na szczegółach prowadzi do utracenia szerszej perspektywy, oderwania od właściwego kierunku
 
-### Najczęstsze przyczyny braku koncentracji
+### 5 najczęstszych przyczyn utraty koncentracji
 
 ## Prokrastynacja
 
@@ -111,3 +116,11 @@
 -   Potrzebujemy odżywionego i sprawnego umysłu do koncentracji
 
 #### Brak kontroli
+
+-   Nasze zarządzanie czasem przekłada się na naszą koncentracje
+    -   pozwalanie innym aby nam zawracali głowę
+-   Kontrola nad swoim czasem jest niezbęna do mistrzostwa w koncentracji
+-   Niektórych zakłóceń nie unikniemy, to musimy zaakceptować
+    -   natomiast każdy z nas ma potencjał aby zwiększyć w tym obszarze poziom kontrolii
+
+### 10 typowych przeszkód na drodze do utrzymania koncentracji
