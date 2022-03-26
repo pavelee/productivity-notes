@@ -72,8 +72,19 @@
 ### Najczęstsze przyczyny prokrastynacji
 
 #### Brak zainteresowania
+-   Łatwiej jest nam skupić się na obiekcie, który nas interesuje
+    -   skupienie wymaga zaagnażowania w zadanie do wykonania
+    -   jeśli bardzo chcemy coś wykonać, mamy większą szanse na igonrowanie rozpraszających bodźców
 
 #### Negatywne emocje
+-   negatywne nastawienie obniża zdolność koncentracji
+    -   stres
+    -   irytacja
+    -   doskwierająca samotność
+    -   przegnębienie
+    -   smutek
+    -   wrogie nastawienie do otoczającej rzeczywistości
+-   Twój mózg jest tak zajęty emocjami że nie wystarcza zasobów poznawcznych na zarządzanie uwagą
 
 #### Słaba organizacja
 
