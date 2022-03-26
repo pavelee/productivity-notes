@@ -39,22 +39,44 @@
             -   sprawdzamy powiadominie na telefonie
     -   analiza dzieje się w tle
         -   niestety rozprasza nas
+-   Najważniejsze do zapamiętania
+    -   uwaga dowolna i mimowolna to dwa różne mechanizmy
+        -   kontrolujemy uwagę dowolną
+        -   nie kontrolujemy uwagi mimowolnej
+    -   Należy ćwiczyć uwagę dowolną aby tłumić wpływ uwagi mimowolnej
 
 #### Uwaga szeroka i skupiona
 
 -   Uwaga szeroka
-    -   Pozwala nam koncetrować się na większej perspektywie 
+    -   Pozwala nam koncetrować się na większej perspektywie (lotu ptaka
+        -   potrzeba perspektywy aby móc ogarnąć wzrokiem cały las, a nie koncetrować się na poszczególnych drzewach
         -   tak jak Generał planuję wojnę, patrzy na temat z szerokiej perspektywy
-        -   tak jak terener planuję rozgrywkę, analizuję graczy, styl gry
-    -   Po zapoznaniu się szerokiej
+            -   dopiero po zapoznaniu się z ogólnymi informacjami na temat frontu możesz przejść do szczegółow operacji
 -   Uwaga skupiona
-    -   Ocenia konkretne sytuacje
+    -   Ocenianie konkretnych sytuacji i szuaknie odpowiedniej reakcji
+        -   podjęcie decyzji na podstawie informacji o twoich zasobach i celach (z szerszej uwagi)
     -   Skupienie na szczegółach
+        -   podjęcie inicjatywy
+        -   zajęcie startegicznych celów
         -   Generał skupia się na konkretnym celu
-        -   Terener skupia się na konkretnym graczu który zdobywa najwięcej punktów
+-   Najważniejsze do zapamiętania
+    -   Uwaga szeroka i skupiona są pod Twoją pełną kontrolą
+    -   Uwaga szeroko i skupiona mają ryzyko wpadnięcia w pułapki koginitywne (błedy poznania)
+        -   Tylko skupienie się na szerokiej perspektywie grozi tym że nie zauważysz istotnych szczegółów
+        -   Tylko skupienie się na szczegółach prowadzi do utracenia szerszej perspektywy, oderwania od właściwego kierunku
 
 ### Najczęstsze przyczyny braku koncentracji
 
 ## Prokrastynacja
 
 ### Najczęstsze przyczyny prokrastynacji
+
+#### Brak zainteresowania
+
+#### Negatywnych emocji
+
+#### Słaba organizacja
+
+#### Niski poziom energii
+
+#### Brak kontroli
