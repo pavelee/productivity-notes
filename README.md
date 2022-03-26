@@ -9,8 +9,9 @@
 -   [Prokrastynacja](#prokrastynacja)
 
 ## Źródło
-- "Nawyk nieodwlekania. Proste sposoby pokonania prokrastynacji" - S.J. Scott
-- "Sztuka błyskawicznej koncentracji. Mistrzostwo w zarządzaniu uwagą" - Damon Zahariades
+
+-   "Nawyk nieodwlekania. Proste sposoby pokonania prokrastynacji" - S.J. Scott
+-   "Sztuka błyskawicznej koncentracji. Mistrzostwo w zarządzaniu uwagą" - Damon Zahariades
 
 ## Koncentracja
 
@@ -72,11 +73,13 @@
 ### Najczęstsze przyczyny prokrastynacji
 
 #### Brak zainteresowania
+
 -   Łatwiej jest nam skupić się na obiekcie, który nas interesuje
     -   skupienie wymaga zaagnażowania w zadanie do wykonania
     -   jeśli bardzo chcemy coś wykonać, mamy większą szanse na igonrowanie rozpraszających bodźców
 
 #### Negatywne emocje
+
 -   negatywne nastawienie obniża zdolność koncentracji
     -   stres
     -   irytacja
@@ -87,6 +90,10 @@
 -   Twój mózg jest tak zajęty emocjami że nie wystarcza zasobów poznawcznych na zarządzanie uwagą
 
 #### Słaba organizacja
+
+-   Osoby świetnie zorganizowane to też mistrzowie w zarządaniu swoją koncentracją
+-   Łatwiej zarządzać uwagą jeśli Twój dzień jest dobrze zaplanowany i przebiega z ustalonym harmonogramem
+-   Dzięki organizacji unikamy chaosu, co za tym idzie bodźców które nas rozpraszają
 
 #### Niski poziom energii
 
