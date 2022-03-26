@@ -1,5 +1,13 @@
 # Notatki na temat produktywności
 
+-   [Źródło](#źródło)
+-   [Koncentracja](#koncentracja)
+    -   [Co się składa na koncentracje?](#co-się-składa-na-koncentracje?)
+        -   [Uwaga dowolona i mimowolna](#uwaga-dowolona-i-mimowolna)
+        -   [Uwaga szeroka i skupiona](#uwaga-szeroka-i-skupiona)
+    -   [Najczęstsze przyczyny braku koncentracji](#najczęstsze-przyczyny-braku-koncentracji)
+-   [Prokrastynacja](#prokrastynacja)
+
 ## Źródło
 - "Nawyk nieodwlekania. Proste sposoby pokonania prokrastynacji" - S.J. Scott
 - "Sztuka błyskawicznej koncentracji. Mistrzostwo w zarządzaniu uwagą" - Damon Zahariades
@@ -45,6 +53,8 @@
         -   Generał skupia się na konkretnym celu
         -   Terener skupia się na konkretnym graczu który zdobywa najwięcej punktów
 
-### Najczęstsze Przyczyny braku koncentracji
+### Najczęstsze przyczyny braku koncentracji
 
 ## Prokrastynacja
+
+### Najczęstsze przyczyny prokrastynacji
