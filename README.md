@@ -93,6 +93,7 @@
 #### Słaba organizacja
 
 -   Osoby świetnie zorganizowane to też mistrzowie w zarządaniu swoją koncentracją
+    -   potrawią odizolować rozpraszające bodźce
 -   Łatwiej zarządzać uwagą jeśli Twój dzień jest dobrze zaplanowany i przebiega z ustalonym harmonogramem
 -   Dzięki organizacji unikamy chaosu, co za tym idzie bodźców które nas rozpraszają
 
