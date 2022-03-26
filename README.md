@@ -73,10 +73,6 @@
 
 ### 5 najczęstszych przyczyn utraty koncentracji
 
-## Prokrastynacja
-
-### Najczęstsze przyczyny prokrastynacji
-
 #### Brak zainteresowania
 
 -   Łatwiej jest nam skupić się na obiekcie, który nas interesuje
@@ -124,3 +120,7 @@
     -   natomiast każdy z nas ma potencjał aby zwiększyć w tym obszarze poziom kontrolii
 
 ### 10 typowych przeszkód na drodze do utrzymania koncentracji
+
+## Prokrastynacja
+
+### Najczęstsze przyczyny prokrastynacji
