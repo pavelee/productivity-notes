@@ -73,7 +73,7 @@
 
 #### Brak zainteresowania
 
-#### Negatywnych emocji
+#### Negatywne emocje
 
 #### Słaba organizacja
 
