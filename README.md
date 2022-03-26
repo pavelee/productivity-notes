@@ -17,6 +17,7 @@
 
 -   "Nawyk nieodwlekania. Proste sposoby pokonania prokrastynacji" - S.J. Scott
 -   "Sztuka błyskawicznej koncentracji. Mistrzostwo w zarządzaniu uwagą" - Damon Zahariades
+-   "Getting Things Done, czyli sztuka bezstresowej efektywności. Wydanie II" - David Allen
 
 ## Koncentracja
 
