@@ -6,7 +6,7 @@
     -   [Co się składa na koncentracje?](#co-się-składa-na-koncentracje?)
         -   [Uwaga dowolona i mimowolna](#uwaga-dowolona-i-mimowolna)
         -   [Uwaga szeroka i skupiona](#uwaga-szeroka-i-skupiona)
-    -   [5 najczęstszych przyczyn utraty koncentracji](#5-najczęstszych-przyczyn-utraty-koncentracji)
+    -   [5 najczęstszych przyczyn utraty zdolności koncentracji](#5-najczęstszych-przyczyn-utraty-zdolności-koncentracji)
         -   [Brak zainteresowania](#brak-zainteresowania)
         -   [Negatywne emocje](#negatywne-emocje)
         -   [Słaba organizacja](#słaba-organizacja)
@@ -96,7 +96,7 @@
         -   Tylko skupienie się na szerokiej perspektywie grozi tym że nie zauważysz istotnych szczegółów
         -   Tylko skupienie się na szczegółach prowadzi do utracenia szerszej perspektywy, oderwania od właściwego kierunku
 
-### 5 najczęstszych przyczyn utraty koncentracji
+### 5 najczęstszych przyczyn utraty zdolności koncentracji
 
 #### Brak zainteresowania
 
