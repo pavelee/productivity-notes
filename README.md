@@ -216,7 +216,7 @@
 #### Bałagan w pracy
 
 -   Spójrz na swoje miejsce pracy, czy panuje tam porządek?    
-    -   Czy Twoje biurko jest symbolem chaosu czy pełnej kontroli
+    -   Czy Twoje biurko jest symbolem chaosu czy pełnej kontroli?
 -   Brak porządku w środowisku pracy wpływa negatywnie na koncentracje
     -   Wiele osób twierdz że to nie wpływa na ich koncentrację, natomiast badania naukowe jasno pokazują że ma to wpływ
     -   Zaśmiecone biurko utrudnia koncentracje
