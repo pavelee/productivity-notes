@@ -20,7 +20,7 @@
         -   [Nierozwiązane problemy](#nierozwiązane-problemy)
         -   [Kiepskie planowanie](#kiepskie-planowanie)
         -   [Bałagan w pracy](#bałagan-w-pracy)
-        -   [Media społecznościowe](# media-społecznościowe)
+        -   [Media społecznościowe](#media-społecznościowe)
         -   [Twój smartphone](#Twój-smartphone)
 -   [Prokrastynacja](#prokrastynacja)
 
@@ -239,6 +239,8 @@
     -   wibrują
 -   Próba uzsyskania silnej koncentracji ze smartphonem obok jest skazana na porażkę
     -   Gdy nasz telefon wysyła sygnał dźwiekowy to jest nam bardzo ciężko powstrzymać się aby sprawdzić co jest źródłem komunikatu
+
+### Ćwiczenia koncentracji
 
 ## Prokrastynacja
 
