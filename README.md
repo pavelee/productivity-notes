@@ -16,6 +16,9 @@
         -   [Niepokój](#niepokój)
         -   [Stres](#stres)
         -   [Zakłócenia](#zakłócenia)
+        -   [Rozbiegane myśli](#rozbiegane-myśli)
+        -   [Nierozwiązane problemy](#nierozwiązane-problemy)
+        -   [Kiepskie planowanie](#kiepskie-planowanie)
 -   [Prokrastynacja](#prokrastynacja)
 
 ## Źródło
@@ -172,6 +175,34 @@
         -   im większy i dłuższy stres tym trudniej się skoncentrować
 
 #### Zakłócenia
+
+-   W czasie pracy zawsze mamy kontakt z zakłoceniami
+    -   obecność współpracowników
+    -   nagłe telefony
+    -   wiadomości na komunikatorze
+-   Każda taka przerwa w pracy, osłabia tempo pracy
+    -   powrót na właściwe tory trwa jakieś 20 minut..
+    -   to dlatego tak ciężko się skupić jak coś, ktoś ciągle Ci przeszkadza
+
+#### Rozbiegane myśli
+
+-   Podczas pracy przychodzą nam do głowy trywialne myśli, które nie mają nic wspólnego z wykonywaną pracą
+    -   takie rozważana prowadzą do bałaganu w głowie
+    -   zaśmiecony umysł to umysł nie skupiony
+
+#### Nierozwiązane problemy
+
+-   nierozwiązany problem jest jak nieszczelny kran, przez który nie możesz zasnąć w nocy
+    -   myśl o kapiącej wodzie chowa nam się w podświadomości i stale nam przeszkadza
+        -   nie pozwala o sobie zapomnieć
+    -   mózg przeznacza na analizę problemu dodatkowe zasoby
+-    Na przykład
+    -   poprzedniego wieczora pokłóciłeś się ze swoją pratnertką
+    -   zmiana funduszu inwestycyjnego z powodu gorszej sytuacji gospodarczej
+-   ciężko się skoncentrować jeśli jesteś świadomy że musisz się uporać z jakimiś nierozwiązanymi problemami, które wiszą nad głową (Miecz Damoklesa)
+
+#### Kiepskie planowanie
+
 
 ## Prokrastynacja
 
