@@ -159,7 +159,8 @@
 -   Trochę stresu nie zaszkodzi
     -   Dzięki niemu zachowujemy wzmożoną czujność
         -   To pomaga zwiększyć koncentracje
--   Problem pojawia się w momencie chronicznego stresu (popularna dolegliowość)
+    -   Niektórzy wykorzystują stres jako motywator do działania
+-   Problem pojawia się w momencie chronicznego stresu (długotrwały stres, popularna dolegliowość XXI wieku)
     -   Możemy mieć tutaj wiele przyczyn
         -   poczucie braku kontroli
         -   zaburzenie ustalonego harmonogramu dnia
