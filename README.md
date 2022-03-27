@@ -2,6 +2,7 @@
 
 -   [Źródło](#źródło)
 -   [Koncentracja](#koncentracja)
+    -   [Definicja koncentracji](#definicja-koncentracji)
     -   [Co się składa na koncentracje?](#co-się-składa-na-koncentracje?)
         -   [Uwaga dowolona i mimowolna](#uwaga-dowolona-i-mimowolna)
         -   [Uwaga szeroka i skupiona](#uwaga-szeroka-i-skupiona)
@@ -20,6 +21,17 @@
 -   "Getting Things Done, czyli sztuka bezstresowej efektywności. Wydanie II" - David Allen
 
 ## Koncentracja
+
+## Definicja koncentracji
+
+-   Mylnie definiowana jako ogranicznie perspektywy
+    -   Tutaj nie chodzi tylko o umiejętność całkowitego zignorowania otoczenia
+-   Koncentracja jest to zarządanie skupienie i uwagą
+    -   świadomie lub półświadomie decydujemy
+        -   co zauważamy
+        -   na co nie zwracamy uwagi
+        -   co ignorujemy inuicyjnie
+        -   co ingorujemy z pełną świadomością
 
 ### Co się składa na koncentracje?
 
