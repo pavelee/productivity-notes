@@ -22,6 +22,7 @@
         -   [Bałagan w pracy](#bałagan-w-pracy)
         -   [Media społecznościowe](#media-społecznościowe)
         -   [Twój smartphone](#Twój-smartphone)
+    -   [Przyjazne warunki dla koncentracji](#przyjazne-warunki-dla-koncentracji)
 -   [Prokrastynacja](#prokrastynacja)
 
 ## Źródło
@@ -240,7 +241,7 @@
 -   Próba uzsyskania silnej koncentracji ze smartphonem obok jest skazana na porażkę
     -   Gdy nasz telefon wysyła sygnał dźwiekowy to jest nam bardzo ciężko powstrzymać się aby sprawdzić co jest źródłem komunikatu
 
-### Ćwiczenia koncentracji
+### Przyjazne warunki dla koncentracji
 
 ## Prokrastynacja
 
