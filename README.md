@@ -233,6 +233,13 @@
 
 #### Twój smartphone
 
+-   Telefony skupiają naszą uwagę, nawet gdy nie są w zasięgu naszego wzroku
+    -   dzwonią
+    -   wysyłają syngały dźwiękowe
+    -   wibrują
+-   Próba uzsyskania silnej koncentracji ze smartphonem obok jest skazana na porażkę
+    -   Gdy nasz telefon wysyła sygnał dźwiekowy to jest nam bardzo ciężko powstrzymać się aby sprawdzić co jest źródłem komunikatu
+
 ## Prokrastynacja
 
 ### Najczęstsze przyczyny prokrastynacji
