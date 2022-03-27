@@ -19,6 +19,8 @@
         -   [Rozbiegane myśli](#rozbiegane-myśli)
         -   [Nierozwiązane problemy](#nierozwiązane-problemy)
         -   [Kiepskie planowanie](#kiepskie-planowanie)
+        -   [Bałagan w pracy](#bałagan-w-pracy)
+        -   [Media społecznościowe](# media-społecznościowe)
 -   [Prokrastynacja](#prokrastynacja)
 
 ## Źródło
@@ -203,6 +205,24 @@
 
 #### Kiepskie planowanie
 
+-   Cieżko się skupić na projekcie kiedy brakuje jasnego, metodycznego planu
+-   Twój mózg przejmie inicjatywę i będzie próbował uzupełnić luki
+    -   Niestety nasz mózg nie posiada takich kwalifikacji
+    -   Przypomnij sobie jak wyglądała ostatnia wizyta w centrum handlowym bez listy zakupów
+        -   Podczas przemierzania kolejnych regałów, o Twoją uwagę walczyły różne produkty
+            -   Marnujemy znacznie więcej czasu
+        -   Winowajcą jest Twój mózg pracujący bez planu i rozpraszany różnymi obrazami
+
+#### Bałagan w pracy
+
+-   Spójrz na swoje miejsce pracy, czy panuje tam porządek?    
+    -   Czy Twoje biurko jest symbolem chaosu czy pełnej kontroli
+-   Brak porządku w środowisku pracy wpływa negatywnie na koncentracje
+    -   Wiele osób twierdz że to nie wpływa na ich koncentrację, natomiast badania naukowe jasno pokazują że ma to wpływ
+    -   Zaśmiecone biurko utrudnia koncentracje
+        -   Nasz wzrok przyciągają walające się przedmioty
+
+#### Media społecznościowe
 
 ## Prokrastynacja
 
