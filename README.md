@@ -21,6 +21,7 @@
         -   [Kiepskie planowanie](#kiepskie-planowanie)
         -   [Bałagan w pracy](#bałagan-w-pracy)
         -   [Media społecznościowe](# media-społecznościowe)
+        -   [Twój smartphone](#Twój-smartphone)
 -   [Prokrastynacja](#prokrastynacja)
 
 ## Źródło
@@ -223,6 +224,14 @@
         -   Nasz wzrok przyciągają walające się przedmioty
 
 #### Media społecznościowe
+
+-   Media społeczniościowe mają udowodniony negatywny wpływ na nasze zdolności krótkotrwałej koncentracji
+    -   plusem jest jest natomiast braku wpływu na zdolności długotrwałej koncentracji
+-   Badania potiwerdziły że młodzież nie jest wstanie wytrzymać kilku minut bez sprawdzenia nowych wpisów w mediach społeczniościowych
+-   Media społeczniościowe powodują znaczne rozproszenie uwagi
+    -   Jeśli nie umiesz się im oprzeć, będzie Ci bardzo trudno skoncentrować się na pracy
+
+#### Twój smartphone
 
 ## Prokrastynacja
 
