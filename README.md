@@ -12,6 +12,10 @@
         -   [Słaba organizacja](#słaba-organizacja)
         -   [Niski poziom energii](#niski-poziom-energii)
     -   [10 typowych przeszkód na drodze do utrzymania koncentracji](#10-typowych-przeszkód-na-drodze-do-utrzymania-koncentracji)
+        -   [Zmęczenie psychiczne](#zmęczenie-psychiczne)
+        -   [Niepokój](#niepokój)
+        -   [Stres](#stres)
+        -   [Zakłócenia](#zakłócenia)
 -   [Prokrastynacja](#prokrastynacja)
 
 ## Źródło
@@ -134,6 +138,39 @@
     -   natomiast każdy z nas ma potencjał aby zwiększyć w tym obszarze poziom kontrolii
 
 ### 10 typowych przeszkód na drodze do utrzymania koncentracji
+
+#### Zmęczenie psychiczne
+
+-   Kiedy Twój mózg jest zmęczony, koncentracja jest niewykonalna
+    -   Wszystko będzie Cie wybijać z rytmu, co za tym idzie nie będiesz mógł się skupić na zadaniu
+-   Może być wiele przyczyn, natomiast najczęstszą przyczną jest brak wystarczającej ilości snu
+    -   Samo położenie się łóżka nie jest wystarczające, musimy jeszcze zasnąć..
+
+#### Niepokój
+
+-   Chodzi tutaj o ogólny niepokój
+    -   Coś powoduje że nie czujesz się najlepiej
+-   Twój mózg odczytuje że coś jest nie tak i przeznacza energie na szukanie przyczyny i rozwiązanie problemu
+    -   Niestety jeśli nie wiemy o co dokładnie chodzi to nasz mózg pracuje na wysokich obortach nad rozwiązaniem nie jasno sprecyzowanego problemu
+    -   W takiej sytuacji znacznie spada zdolność zarządzania uwagą
+
+#### Stres
+
+-   Trochę stresu nie zaszkodzi
+    -   Dzięki niemu zachowujemy wzmożoną czujność
+        -   To pomaga zwiększyć koncentracje
+-   Problem pojawia się w momencie chronicznego stresu (popularna dolegliowość)
+    -   Możemy mieć tutaj wiele przyczyn
+        -   poczucie braku kontroli
+        -   zaburzenie ustalonego harmonogramu dnia
+        -   poczucie braku przygotowania do ważnego wydarzenia
+        -   nie błahe prolemu życiowe
+            -   rozwód
+            -   śmierć osoby bliskiej
+    -   stres prowadzi do uwagi
+        -   im większy i dłuższy stres tym trudniej się skoncentrować
+
+#### Zakłócenia
 
 ## Prokrastynacja
 
