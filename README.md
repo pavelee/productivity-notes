@@ -196,7 +196,7 @@
     -   myśl o kapiącej wodzie chowa nam się w podświadomości i stale nam przeszkadza
         -   nie pozwala o sobie zapomnieć
     -   mózg przeznacza na analizę problemu dodatkowe zasoby
--    Na przykład
+-   Na przykład
     -   poprzedniego wieczora pokłóciłeś się ze swoją pratnertką
     -   zmiana funduszu inwestycyjnego z powodu gorszej sytuacji gospodarczej
 -   ciężko się skoncentrować jeśli jesteś świadomy że musisz się uporać z jakimiś nierozwiązanymi problemami, które wiszą nad głową (Miecz Damoklesa)
