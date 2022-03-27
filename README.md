@@ -23,6 +23,7 @@
         -   [Media społecznościowe](#media-społecznościowe)
         -   [Twój smartphone](#Twój-smartphone)
     -   [Przyjazne warunki dla koncentracji](#przyjazne-warunki-dla-koncentracji)
+        -   [Oświetlenie](#oświetlenie)
 -   [Prokrastynacja](#prokrastynacja)
 
 ## Źródło
@@ -242,6 +243,8 @@
     -   Gdy nasz telefon wysyła sygnał dźwiekowy to jest nam bardzo ciężko powstrzymać się aby sprawdzić co jest źródłem komunikatu
 
 ### Przyjazne warunki dla koncentracji
+
+#### Oświetlenie
 
 ## Prokrastynacja
 
