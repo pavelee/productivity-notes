@@ -32,7 +32,7 @@
 
 ## Koncentracja
 
-## Definicja koncentracji
+### Definicja koncentracji
 
 -   Mylnie definiowana jako ogranicznie perspektywy
     -   Tutaj nie chodzi tylko o umiejętność całkowitego zignorowania otoczenia
