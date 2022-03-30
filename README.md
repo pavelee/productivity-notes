@@ -24,6 +24,8 @@
         -   [Twój smartphone](#Twój-smartphone)
     -   [Przyjazne warunki dla koncentracji](#przyjazne-warunki-dla-koncentracji)
         -   [Oświetlenie](#oświetlenie)
+        -   [Hałasy w tle](#hałasy-w-tle)
+        -   [Warunki w miejscu pracy](#warunki-w-miejscu-pracy)
 -   [Prokrastynacja](#prokrastynacja)
 
 ## Źródło
@@ -245,6 +247,44 @@
 ### Przyjazne warunki dla koncentracji
 
 #### Oświetlenie
+
+-   Naukowe badania udawadniają że lepiej pracujemy w dobrze oświelonym pomieszczeniu
+-   Słabe oświetlenie i półcienie źle wpływają na
+    -   nastrój
+    -   skupienie
+    -   wydajność pracowników
+    -   senność
+-   Więcej światło to
+    -   większy poziom zadowolenia i zaangażowania mentalnego
+-   Pamiętasz ostani raz jak próbowałeś się uczyć w pomieszczeniu gdzie panował półmrok?
+    -   Czy miałeś problem ze zrozumieniem lub zapamiętaniem nowych informacji?
+    -   Czy czułeś większe znużenie?
+    -   Czy czułeś że Twoje myśli rozbiegały się?
+    -   Może słabo widziałeś tekst i bolały Cie oczy?
+-   Jak zaczynasz pracę to sprawdź czy oświetlenie jest wystarczające
+-   W miare możliwości korzystaj z oświetlenia naturalnego
+    -   światło naturalne poprawia naszą wydajność i produktywność
+
+#### Hałasy w tle
+
+-   Każdy indywidualnie znosi hałasy
+    -   Niektórzy potrzebuja totalnej ciszy
+    -   Niektórzy lubią hałas otoczenia
+    -   Niektórzy lubią szum wentylatora, TV itp.
+-   Eksperymentuj z szumami tła aby zrozumieć co najlepiej działa dla Ciebie
+    -   Popracuje 30 min w absolutnej ciszy
+    -   Popracuj 30 min przy muzyce barokowej
+    -   Popracuj 30 min przy szumie biały, czerwonym i różowym hałasem w tle
+-   Poszukuj, znajdziesz szum tła który będzie Ci służył najlepiej!
+    -   Pamiętaj! Rodzaj dobrego szumu jest zależny od tego co robisz, musisz się adaptoptować, np.
+        -   przy pracy keatywnej -> muzyka instrumentalna
+        -   przy nauce -> kompletna cisza
+-   Najważniejsze to poczucie że to Ty kontrolujesz szum który Cie otacza
+-   W przypadku kiedy potrzebujesz pracować w kompletnej ciszy to warto zainwestować w słuchawki itp.
+
+
+#### Warunki w miejscu pracy
+
 
 ## Prokrastynacja
 
