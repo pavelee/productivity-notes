@@ -27,6 +27,10 @@
         -   [Hałasy w tle](#hałasy-w-tle)
         -   [Warunki w miejscu pracy](#warunki-w-miejscu-pracy)
         -   [Temperatura otoczenia](#temperatura-otoczenia)
+        -   [Jakość powietrza](#jakość-powietrza)
+        -   [Zapachy](#zapachy)
+        -   [Denerwująca obecność innych ludzi](#denerwująca-obecność-innych-ludzi)
+        -   [Organizacja pracy](#organizacja-pracy)
 -   [Prokrastynacja](#prokrastynacja)
 
 ## Źródło
@@ -329,6 +333,14 @@
 -   Nie odpowiednia temperatura będzie nas rozpraszać
 -   Badania potwierdzają że najlepszą wydajność osiągamy przy temperaturze 20 - 25 stopni celciusza
     -   W takich warunkach pracujemy wydajnie i popełniamy najmniej błędów
+
+#### Jakość powietrza
+
+#### Zapachy
+
+#### Denerwująca obecność innych ludzi
+
+#### Organizacja pracy
 
 ## Prokrastynacja
 
