@@ -26,6 +26,7 @@
         -   [Oświetlenie](#oświetlenie)
         -   [Hałasy w tle](#hałasy-w-tle)
         -   [Warunki w miejscu pracy](#warunki-w-miejscu-pracy)
+        -   [Temperatura otoczenia](#temperatura-otoczenia)
 -   [Prokrastynacja](#prokrastynacja)
 
 ## Źródło
@@ -132,7 +133,7 @@
     -   bez dobrego posiłku
     -   satysfakcująco długiego snu
     -   regularnych ćwiczeń fizycznych
-- niestety zapominamy o tych czynnościach
+-   niestety zapominamy o tych czynnościach
     -   jemy nie zdrowo
     -   wykonujemy czynności kosztem snu
         -   często zapychacze czasu np. oglądanie seriali
@@ -220,7 +221,7 @@
 
 #### Bałagan w pracy
 
--   Spójrz na swoje miejsce pracy, czy panuje tam porządek?    
+-   Spójrz na swoje miejsce pracy, czy panuje tam porządek?
     -   Czy Twoje biurko jest symbolem chaosu czy pełnej kontroli?
 -   Brak porządku w środowisku pracy wpływa negatywnie na koncentracje
     -   Wiele osób twierdz że to nie wpływa na ich koncentrację, natomiast badania naukowe jasno pokazują że ma to wpływ
@@ -282,7 +283,6 @@
 -   Najważniejsze to poczucie że to Ty kontrolujesz szum który Cie otacza
 -   W przypadku kiedy potrzebujesz pracować w kompletnej ciszy to warto zainwestować w słuchawki itp.
 
-
 #### Warunki w miejscu pracy
 
 -   Potrzebujemy komfortu aby utrzymać dłuższe skupienie
@@ -297,7 +297,7 @@
 -   Zadaj sobie pytania
     -   Czy fotel jest wygodny?
     -   Czy siedlisko znajduję się na odpowiedniej wysokości biorąc pod uwagę wysokość biurka?
-        -   Twoje ramiona powinny być zgięte w kącie 90 stopni  
+        -   Twoje ramiona powinny być zgięte w kącie 90 stopni
     -   Czy nie masz zaciasnych butów?
     -   Czy koszula Cie nie uwiera?
     -   Jaka postawę przyjmujesz podczas pracy?
@@ -323,7 +323,13 @@
         -   porozciągaj się
         -   przejdz się na krótki spacer
     -   Dzięki przerwie odciążysz mieśnie szyji i ramion, wrócisz do pracy odświeżony
-        
+
+#### Temperatura otoczenia
+
+-   Nie odpowiednia temperatura będzie nas rozpraszać
+-   Badania potwierdzają że najlepszą wydajność osiągamy przy temperaturze 20 - 25 stopni celciusza
+    -   W takich warunkach pracujemy wydajnie i popełniamy najmniej błędów
+
 ## Prokrastynacja
 
 ### Najczęstsze przyczyny prokrastynacji
