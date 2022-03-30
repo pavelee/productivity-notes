@@ -285,7 +285,45 @@
 
 #### Warunki w miejscu pracy
 
-
+-   Potrzebujemy komfortu aby utrzymać dłuższe skupienie
+    -   Majać nie wygodny fotel, ból pleców będzie nas rozpraszał
+-   Na to jak nam się pracuje wpływa wiele czynników
+    -   Wysokość krzesła, fotela i biurka
+    -   Dopasowanie butów
+    -   To jak się czujesz w ubraniu które masz na sobie
+    -   poprawna pozycja siedząca
+    -   ile czasu spędzasz przy pracy bez przerwy
+    -   pozycja monitora w stosunku do linii oczu
+-   Zadaj sobie pytania
+    -   Czy fotel jest wygodny?
+    -   Czy siedlisko znajduję się na odpowiedniej wysokości biorąc pod uwagę wysokość biurka?
+        -   Twoje ramiona powinny być zgięte w kącie 90 stopni  
+    -   Czy nie masz zaciasnych butów?
+    -   Czy koszula Cie nie uwiera?
+    -   Jaka postawę przyjmujesz podczas pracy?
+        -   Czy masz wyprostowane plecy i cofnięte ramiona?
+        -   Czy dotykasz plecami oparcia fotela?
+        -   Czy stopy są umieszoncze płasko na ziemi?
+        -   Czy nogi są zgięte pod kątem 90 stopni?
+        -   Czy waga ciała rozkłada się równomiernie na oba biodra?
+        -   Czy jak siedisz prosto nie przechylasz się nie naturalnie w czyjaś stronę?
+-   Zastanów się nad cechami fotela do pracy
+    -   Czy wyściółka jest tak miekka że stajesz się senny?
+    -   Czy fotel stale się przesuwa?
+    -   Czy zapewnia wystarczające wsparcie dla pleców i bioder?
+    -   Czy materiał jest na tyle przewienny że nie czujesz gorąca siedząc dłużej w tej samej pozycji?
+    -   Czy umożliwia zachowanie prawidłowej pozycji siedzącej?
+    -   Czy możliwa jest regulacja?
+-   Zmierz odległość pomiędzy monitorem a Twoimi oczami
+    -   Powinna być w zakresie 60 - 92cm
+    -   Górna krawędź monitora powinna się znajdować na linii Twoich oczu
+        -   Przesunięcie o pare centymetrów może prowadzić do problemów z mieśniami karku i oczami
+-   Siedzenie dłużej w tej samej pozycji może powodować dyskomfort, nawet jeśli masz idealne warunki pracy
+    -   Co 30 minut wstań z fotela
+        -   porozciągaj się
+        -   przejdz się na krótki spacer
+    -   Dzięki przerwie odciążysz mieśnie szyji i ramion, wrócisz do pracy odświeżony
+        
 ## Prokrastynacja
 
 ### Najczęstsze przyczyny prokrastynacji
