@@ -389,7 +389,7 @@
         -   posłuchaj muzyki instrumantalej lub białego szumu
     -   poszukaj innych sposobów na własną przestrzeń
 
-#### Organizacja pracy
+#### Organizacja miejsca pracy
 
 -   To w jaki sposób organizujesz swoją przestrzeń pracy wpłynie na Twoją pracę
 -   położenie Twojego biurka względem okna i drzwi wpływa na Twoją zdolność koncentracji
