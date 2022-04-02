@@ -336,6 +336,17 @@
 
 #### Jakość powietrza
 
+-   Powietrze wewnątrz budnyku może być bardziej zanieczyszcone niż na zewnątrz
+    -   Ulteniają się farby, chemia, tusz itp.
+-   Zła jakość powietrza wpływa negatywnie na naszą wydajność
+    -   Zmęczenie, bóle głowy, nudności, alergia
+-   Zakłada się że z powodu powikłań powodowanych złą jakością powietrza pracowdawcy w USA tracą rocznie 15 mld dolarów
+    -   zwolnienia lekarskie, nieobecności, słaba wydajność
+-   Możemy temu przeciwdziałać
+    -   wietrzenie pokoju
+    -   przerwy na świeżym powietrzu
+        -   spacer, słońce
+
 #### Zapachy
 
 #### Denerwująca obecność innych ludzi
