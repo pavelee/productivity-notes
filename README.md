@@ -377,8 +377,8 @@
 
 -   rozmowy, krzyki innych ludzi to znani zabójcy koncentracji
 -   jesteśmy stworzeniami społecznymi
-    -   kiedy słyszymy rozmowę to w naturalny sposób zaczynamy nasłuchiwać aby poznać jej temat 
-    -   kiedy słyszymy śmiech, chcemy poznać przyczynę wesołości tej osoby 
+    -   kiedy słyszymy rozmowę to w naturalny sposób zaczynamy nasłuchiwać aby poznać jej temat
+    -   kiedy słyszymy śmiech, chcemy poznać przyczynę wesołości tej osoby
     -   to nasza natura!
 -   typowy przykłąd to kiedy chcemy się skupić, natomiast nasi współpracownicy rozmawiają na temat filmu który chcemy zobaczyć
     -   Twój mózg automatycznie uznał rozmowę za coś ważniejszego niż wykonywana praca
@@ -390,6 +390,30 @@
     -   poszukaj innych sposobów na własną przestrzeń
 
 #### Organizacja pracy
+
+-   To w jaki sposób organizujesz swoją przestrzeń pracy wpłynie na Twoją pracę
+-   położenie Twojego biurka względem okna i drzwi wpływa na Twoją zdolność koncentracji
+    -   zbyt małe pomieszczenie może prowadzić do dyskomfortu
+    -   biurko na przeciwko okna, przechodzący przechodnie prowadzą przyciągają Twoją uwagę i prowadzą do rozporszenia
+    -   siedziesz tyłem do drzwi, co prowadzi do uczucia dyskomfortu że ktoś nas obserwuję i zagląda Ci przez ramię
+-   pomysły na dobrą organizację miejsca pracy 
+    -   pozbądź się mebli których nie potrzebujesz
+        -   więcej przestrzeni to więcej tlenu
+    -   usprawnij ruch
+        -   między biurkiem a drzwiami, nie ustawiaj żadnych przeszkód
+    -   przeznacz jeden podajnik biurkowy na wszystkie dokumenty
+    -   zadbaj o odpowiednie oświetlenie
+    -   uporządkuj swoje biurko
+        -   abyś nie musiał niczego szukać
+    -   usuń z biurka niepotrzebne książki i czasopisma
+    -   trzymaj wszystkie przybory (np. długopisy) w jednym miejscu
+    -   zadbaj o większy kosz na śmieci
+        -   czym większy tym żadziej będziesz zmuszony go opróżniać
+    -   usuń z biurka przedmioty które służą zabawie i rekreacji
+        -   wyznacz przestrzeń tylko do pracy
+        -   wyznacz przestrzeń dla gier i zabawy
+    -   przenieś fizyczne dokumenty do chmury
+        -   każda wolna przestrzeń jest istotna
 
 ## Prokrastynacja
 
