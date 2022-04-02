@@ -31,6 +31,9 @@
         -   [Zapachy](#zapachy)
         -   [Denerwująca obecność innych ludzi](#denerwująca-obecność-innych-ludzi)
         -   [Organizacja miejsca pracy](#organizacja-miejsca-pracy)
+        -   [Bałagan](#bałagan)
+        -   [Rejestrowanie upływu czasu](#rejestrowanie-upływu-czasu)
+        -   [Tablica suchościeralna](#tablica-suchościeralna)
 -   [Prokrastynacja](#prokrastynacja)
 
 ## Źródło
@@ -414,6 +417,12 @@
         -   wyznacz przestrzeń dla gier i zabawy
     -   przenieś fizyczne dokumenty do chmury
         -   każda wolna przestrzeń jest istotna
+
+#### Bałagan
+
+#### Rejestrowanie upływu czasu
+
+#### Tablica suchościeralna
 
 ## Prokrastynacja
 
