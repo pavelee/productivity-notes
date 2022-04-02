@@ -400,7 +400,7 @@
     -   pozbądź się mebli których nie potrzebujesz
         -   więcej przestrzeni to więcej tlenu
     -   usprawnij ruch
-        -   między biurkiem a drzwiami, nie ustawiaj żadnych przeszkód
+        -   nie ustawiaj żadnych przeszkód między biurkiem a drzwiami
     -   przeznacz jeden podajnik biurkowy na wszystkie dokumenty
     -   zadbaj o odpowiednie oświetlenie
     -   uporządkuj swoje biurko
