@@ -375,6 +375,20 @@
 
 #### Denerwująca obecność innych ludzi
 
+-   rozmowy, krzyki innych ludzi to znani zabójcy koncentracji
+-   jesteśmy stworzeniami społecznymi
+    -   kiedy słyszymy rozmowę to w naturalny sposób zaczynamy nasłuchiwać aby poznać jej temat 
+    -   kiedy słyszymy śmiech, chcemy poznać przyczynę wesołości tej osoby 
+    -   to nasza natura!
+-   typowy przykłąd to kiedy chcemy się skupić, natomiast nasi współpracownicy rozmawiają na temat filmu który chcemy zobaczyć
+    -   Twój mózg automatycznie uznał rozmowę za coś ważniejszego niż wykonywana praca
+-   Co można zrobić kiedy inni nas rozpraszają
+    -   przenieś się w inne miejsce
+    -   zrób sobie chwilę przerwy
+    -   załóż słuchawki które odcinają zewnętrzne dźwięki
+        -   posłuchaj muzyki instrumantalej lub białego szumu
+    -   poszukaj innych sposobów na własną przestrzeń
+
 #### Organizacja pracy
 
 ## Prokrastynacja
