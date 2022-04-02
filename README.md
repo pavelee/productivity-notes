@@ -30,7 +30,7 @@
         -   [Jakość powietrza](#jakość-powietrza)
         -   [Zapachy](#zapachy)
         -   [Denerwująca obecność innych ludzi](#denerwująca-obecność-innych-ludzi)
-        -   [Organizacja pracy](#organizacja-pracy)
+        -   [Organizacja miejsca pracy](#organizacja-miejsca-pracy)
 -   [Prokrastynacja](#prokrastynacja)
 
 ## Źródło
