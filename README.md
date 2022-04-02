@@ -349,6 +349,30 @@
 
 #### Zapachy
 
+-   Zapachy mogą rozpraszać lub poprawiać naszą koncentrację
+    -   trudno się skupić jeśli w pomieszczeniu silnie pachnie rybą (odgrzewanie w mikrofali)
+        -   zapach nie musi być nie przyjemny aby rozpraszać, wystarczy że jest wystarczająco silny
+    -   zapach mięty pieprzowej, cynamonu poprawią naszą koncentrację
+-   zapachy wpływają na nasz nastrój i usposobienie
+-   zapachy wpływająco pozytywnie na koncentracje, czujność i zapobiegają zmęczeniu
+    -   mięta pieprzowa
+        -   stymuluje mózg i poprawia koncentracje
+    -   cynamon
+        -   zmniejszają zmęczenie psychiczne i poprawia nastrój
+    -   sosna
+    -   rozmaryn
+        -   zwalcza natrętne myśli, zmniejsza podatność na zakłócenia
+    -   bazylia
+    -   cytryna
+        -   zmniejszają zmęczenie psychiczne i poprawia nastrój
+    -   lawenda
+    -   cyprys
+-   Zapach można używać w formacie świecy, kadzidełka lub olejku
+-   W przypadku kiedy pracujesz z innymi osobami i nie chcesz im przeszkadzać
+    -   użyj ręcznika lub chusteczki, po prostu przyłóż do nosa!
+-   eksperymentuj z zapachami, znajdź Twój ulubiony!
+-   W skrajnym przypadku po prostu zmień otoczenie!
+
 #### Denerwująca obecność innych ludzi
 
 #### Organizacja pracy
