@@ -460,6 +460,21 @@
 
 #### Tablica suchościeralna
 
+-   ważne funkcje tablicy
+    -   rejestrowanie i monitorowanie stan wykonywanych zadań
+        -   lista todo
+    -   zapisywanie nowych pomysłów które wpadają Ci do głowy
+        -   nie musisz się martwić aby o tym pamiętać
+        -   idea, koncepcja, zdanie
+            -   zapisujesz i możesz wrócić w dowolnej chwili
+        -   rozbiegane myśli mają dewastujący wpływ na zarządzenie uwagę oraz produktywność 
+            -   każda myśl zostawia otwartą pętle która zabiera nam zasoby naszego umysłu
+            -   myśl nas gnębi dopóki jej nie zapiszemy lub nie zaczniemy monitorować procesowania
+            -   zapisanie takiej myśli na tablicy jest wystarczające do zamknięcia otwartej pętli
+    -   można też używać zamienników tablicy
+        -   notatnika
+        -   aplikacji
+
 ## Prokrastynacja
 
 ### Najczęstsze przyczyny prokrastynacji
