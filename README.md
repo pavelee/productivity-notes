@@ -440,6 +440,24 @@
 
 #### Rejestrowanie upływu czasu
 
+-   Podczas pracy potrzebujesz systemu rejestrującego upływający czas
+    -   zegarek na ręku
+    -   umieszczenie telefonu w stoiącej ładowarce
+        -   najbardziej ryzykowne, telefon może Cie rozpraszać powiadomieniami
+    -   powieś zegar ścienny
+    -   użyj zegara systemowego w komputerze
+        -   istnieje ryzyko zignorowania
+-   wyznacznie czasu na konkretne zdania zadziała motywująco
+    -   presja czasu będzie Cie motywować
+        -   presja zmusi Cie do koncetnracji na zadaniu i nie rozpraszanie się pobocznymi zadaniami
+    -   świadomość upływającego czasu wyostrzy Twoją koncentrację 
+        -   będziesz mieć świadomość ile zostało Ci czasu do dyspozycji
+    -   uporządkuje to Twoją listę zadań (kolejność)
+-   Brak świadomości upływającego czasu prowadzi do marnotractwa
+    -   częstym przypadkiem jest zboaczenie z dążenia do celu na rzecz jakiś zapychaczy czasu (np. socialmedia)
+    -   mamy poczucie że posiadamy więcej czasu niż jest to w rzeczywistości
+        -   w marketach, kasynach 
+
 #### Tablica suchościeralna
 
 ## Prokrastynacja
