@@ -420,6 +420,24 @@
 
 #### Bałagan
 
+-   Bałagan na biurku ogranicza naszą koncentrację oraz efektywność
+    -   rozprasza, zabiera koncentrację 
+    -   Twój umysł nie może zaakceptować chaosu panującego na biurku
+-   Nieład przyciąga Twoją uwagę
+    -   rozprasza Cie, chociaż możesz nie mieć tego świadomości
+    -   ogranicza zdolności Twojego mózgu do przetwarzania informacji
+-   Istotne jest uporządkowanie obszaru roboczego
+    -   zastanów się których rzeczy będziesz realnie potrzebować do wykonania swojej pracy
+        -   trzymaj powyższe rzeczy w zasięgu ręki
+        -   reszte przedmiotów pozbądź się z biurka
+    -   uporządkuj szuflady biurka w zależności od ważności przedmiotów
+        -   w górnej szufladzie umieść przedmioty których używasz na codzień
+        -   w środkowiej przemioty których nie używasz na codzień ale mogą się przydać
+        -   w niższych szufladach przemioty których używasz sporadycznie
+    -   uporządkuj kable w taki sposób aby nie były widoczne
+    -   komputer, drukarkę umieść pod biurkiem
+    -   inne pomysły, celem jest jak najlepsze uporządkowanie biurka
+
 #### Rejestrowanie upływu czasu
 
 #### Tablica suchościeralna
