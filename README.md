@@ -34,6 +34,8 @@
         -   [Bałagan](#bałagan)
         -   [Rejestrowanie upływu czasu](#rejestrowanie-upływu-czasu)
         -   [Tablica suchościeralna](#tablica-suchościeralna)
+    -   [Techniki poprawy koncentracji](#techniki-poprawy-koncentracji)
+        -   [Ustaw alarm](#ustaw-alarm)
 -   [Prokrastynacja](#prokrastynacja)
 
 ## Źródło
@@ -474,6 +476,10 @@
     -   można też używać zamienników tablicy
         -   notatnika
         -   aplikacji
+
+### Techniki poprawy koncentracji
+
+#### Ustaw alarm
 
 ## Prokrastynacja
 
