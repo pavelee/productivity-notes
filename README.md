@@ -36,6 +36,7 @@
         -   [Tablica suchościeralna](#tablica-suchościeralna)
     -   [Techniki poprawy koncentracji](#techniki-poprawy-koncentracji)
         -   [Ustaw alarm](#ustaw-alarm)
+        -   [Ogranicz liczbę codziennych zadań do pięciu](#ogranicz-liczbę-codziennych-zadań-do-pięciu)
 -   [Prokrastynacja](#prokrastynacja)
 
 ## Źródło
@@ -496,6 +497,8 @@
         -   w przypadku porażki, nie nagardzaj się!
     -   pracę podziel na etapy 
         -   ustaw alaram na pierwszy etap, np. co godzina jeśli praca ma trwać trzy godziny
+
+### Ogranicz liczbę codziennych zadań do pięciu
 
 ## Prokrastynacja
 
