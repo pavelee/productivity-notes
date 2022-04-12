@@ -481,6 +481,22 @@
 
 #### Ustaw alarm
 
+-   Warto mieć alarm lub inne urządzenie alarmujące o granicy czasowej dla poszczególnych zdań lub bloku zadań
+    -   Na przykład wiesz że przygotowanie prezentacji zajmie Ci około 2h, ustaw alarm za 2h i weź się do pracy 
+    -   ustawienie terminów i ram czasowych motywuje nas do działania
+-   Świadomość upływającego czasu (widoczny zegarek / ustawiony alarm) podświadomie zmusza nas do skupienia się konkretnym zadaniu
+    -   podświadomie wiemy że czas na zadanie się kończy
+-   dodatkowe wskazówki
+    -   ustaw rozsądne ramy czasowe
+        -   "Wszystko trwa dłużej, niż nam to się wydaje" - prawo Hofstadtera
+        -   "Praca rozszerza się tak, aby wypełnić czas dostępny na jej ukończenie" - prawo Parkinsona
+        -   uwzględnij potencjalne przeszkody (bufor)
+    -   system nagród i konsekwencji 
+        -   jeśli dotyrzymasz terminu nagródz się (np. kawałkiem czekolady)
+        -   w przypadku porażki, nie nagardzaj się!
+    -   pracę podziel na etapy 
+        -   ustaw alaram na pierwszy etap, np. co godzina jeśli praca ma trwać trzy godziny
+
 ## Prokrastynacja
 
 ### Najczęstsze przyczyny prokrastynacji
