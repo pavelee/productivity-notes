@@ -498,7 +498,7 @@
     -   pracę podziel na etapy 
         -   ustaw alaram na pierwszy etap, np. co godzina jeśli praca ma trwać trzy godziny
 
-### Ogranicz liczbę codziennych zadań do pięciu
+#### Ogranicz liczbę codziennych zadań do pięciu
 
 ## Prokrastynacja
 
