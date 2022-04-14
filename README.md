@@ -37,6 +37,7 @@
     -   [Techniki poprawy koncentracji](#techniki-poprawy-koncentracji)
         -   [Ustaw alarm](#ustaw-alarm)
         -   [Ogranicz liczbę codziennych zadań do pięciu](#ogranicz-liczbę-codziennych-zadań-do-pięciu)
+        -   [Poznaj swój powód](#poznaj-swój-powód)
 -   [Prokrastynacja](#prokrastynacja)
 
 ## Źródło
@@ -509,6 +510,8 @@
 -   ogranicznie ilości zadań zachęca nas do przeglądania i oceny istotności zadań
     -   jeśli coś jest mniej wartościowe to nie róbmy tego!
     -   optymalizujemy nasze działania
+
+#### Poznaj swój powód
 
 ## Prokrastynacja
 
