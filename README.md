@@ -503,3 +503,13 @@
 ## Prokrastynacja
 
 ### Najczęstsze przyczyny prokrastynacji
+
+-   czym więcej masz do zrobienia, tym trudniej będzie Ci się skupić na zadaniu
+    -   każdy element do zrobienia będzie się domagał Twojej uwagi
+    -   większa ilość zadań do zrobienia będzie nas przygniatać psychicznie i stresować
+        -   żonglowanie obowiązkami stawaia nas w poczucie wiecznego nadrabiania zaległości
+        -   poczucie natłoku zadań rozprasza nas 
+-   jeśli będziesz mieć tyle zadań aby mieć poczucie że zdążysz je wykonać, to oczekujące zadania nie będą Cie rozpraszać. Istotne jest przekonanie że zdołamy to wkonać dzisiejszego dnia.
+-   ogranicznie ilości zadań zachęca nas do przeglądania i oceny istotności zadań
+    -   jeśli coś jest mniej wartościowe to nie róbmy tego!
+    -   optymalizujemy nasze działania
