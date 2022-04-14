@@ -402,7 +402,7 @@
     -   zbyt małe pomieszczenie może prowadzić do dyskomfortu
     -   biurko na przeciwko okna, przechodzący przechodnie prowadzą przyciągają Twoją uwagę i prowadzą do rozporszenia
     -   siedziesz tyłem do drzwi, co prowadzi do uczucia dyskomfortu że ktoś nas obserwuję i zagląda Ci przez ramię
--   pomysły na dobrą organizację miejsca pracy 
+-   pomysły na dobrą organizację miejsca pracy
     -   pozbądź się mebli których nie potrzebujesz
         -   więcej przestrzeni to więcej tlenu
     -   usprawnij ruch
@@ -424,7 +424,7 @@
 #### Bałagan
 
 -   Bałagan na biurku ogranicza naszą koncentrację oraz efektywność
-    -   rozprasza, zabiera koncentrację 
+    -   rozprasza, zabiera koncentrację
     -   Twój umysł nie może zaakceptować chaosu panującego na biurku
 -   Nieład przyciąga Twoją uwagę
     -   rozprasza Cie, chociaż możesz nie mieć tego świadomości
@@ -453,13 +453,13 @@
 -   wyznacznie czasu na konkretne zdania zadziała motywująco
     -   presja czasu będzie Cie motywować
         -   presja zmusi Cie do koncetnracji na zadaniu i nie rozpraszanie się pobocznymi zadaniami
-    -   świadomość upływającego czasu wyostrzy Twoją koncentrację 
+    -   świadomość upływającego czasu wyostrzy Twoją koncentrację
         -   będziesz mieć świadomość ile zostało Ci czasu do dyspozycji
     -   uporządkuje to Twoją listę zadań (kolejność)
 -   Brak świadomości upływającego czasu prowadzi do marnotractwa
     -   częstym przypadkiem jest zboaczenie z dążenia do celu na rzecz jakiś zapychaczy czasu (np. socialmedia)
     -   mamy poczucie że posiadamy więcej czasu niż jest to w rzeczywistości
-        -   w marketach, kasynach 
+        -   w marketach, kasynach
 
 #### Tablica suchościeralna
 
@@ -470,7 +470,7 @@
         -   nie musisz się martwić aby o tym pamiętać
         -   idea, koncepcja, zdanie
             -   zapisujesz i możesz wrócić w dowolnej chwili
-        -   rozbiegane myśli mają dewastujący wpływ na zarządzenie uwagę oraz produktywność 
+        -   rozbiegane myśli mają dewastujący wpływ na zarządzenie uwagę oraz produktywność
             -   każda myśl zostawia otwartą pętle która zabiera nam zasoby naszego umysłu
             -   myśl nas gnębi dopóki jej nie zapiszemy lub nie zaczniemy monitorować procesowania
             -   zapisanie takiej myśli na tablicy jest wystarczające do zamknięcia otwartej pętli
@@ -483,7 +483,7 @@
 #### Ustaw alarm
 
 -   Warto mieć alarm lub inne urządzenie alarmujące o granicy czasowej dla poszczególnych zdań lub bloku zadań
-    -   Na przykład wiesz że przygotowanie prezentacji zajmie Ci około 2h, ustaw alarm za 2h i weź się do pracy 
+    -   Na przykład wiesz że przygotowanie prezentacji zajmie Ci około 2h, ustaw alarm za 2h i weź się do pracy
     -   ustawienie terminów i ram czasowych motywuje nas do działania
 -   Świadomość upływającego czasu (widoczny zegarek / ustawiony alarm) podświadomie zmusza nas do skupienia się konkretnym zadaniu
     -   podświadomie wiemy że czas na zadanie się kończy
@@ -492,24 +492,24 @@
         -   "Wszystko trwa dłużej, niż nam to się wydaje" - prawo Hofstadtera
         -   "Praca rozszerza się tak, aby wypełnić czas dostępny na jej ukończenie" - prawo Parkinsona
         -   uwzględnij potencjalne przeszkody (bufor)
-    -   system nagród i konsekwencji 
+    -   system nagród i konsekwencji
         -   jeśli dotyrzymasz terminu nagródz się (np. kawałkiem czekolady)
         -   w przypadku porażki, nie nagardzaj się!
-    -   pracę podziel na etapy 
+    -   pracę podziel na etapy
         -   ustaw alaram na pierwszy etap, np. co godzina jeśli praca ma trwać trzy godziny
 
 #### Ogranicz liczbę codziennych zadań do pięciu
-
-## Prokrastynacja
-
-### Najczęstsze przyczyny prokrastynacji
 
 -   czym więcej masz do zrobienia, tym trudniej będzie Ci się skupić na zadaniu
     -   każdy element do zrobienia będzie się domagał Twojej uwagi
     -   większa ilość zadań do zrobienia będzie nas przygniatać psychicznie i stresować
         -   żonglowanie obowiązkami stawaia nas w poczucie wiecznego nadrabiania zaległości
-        -   poczucie natłoku zadań rozprasza nas 
+        -   poczucie natłoku zadań rozprasza nas
 -   jeśli będziesz mieć tyle zadań aby mieć poczucie że zdążysz je wykonać, to oczekujące zadania nie będą Cie rozpraszać. Istotne jest przekonanie że zdołamy to wkonać dzisiejszego dnia.
 -   ogranicznie ilości zadań zachęca nas do przeglądania i oceny istotności zadań
     -   jeśli coś jest mniej wartościowe to nie róbmy tego!
     -   optymalizujemy nasze działania
+
+## Prokrastynacja
+
+### Najczęstsze przyczyny prokrastynacji
