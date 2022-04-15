@@ -532,6 +532,24 @@
 
 #### Rozpoczynaj każdą sesję nauki/pracy od ćwiczenia areobowego
 
+-   badania naukowe potwierdzają że ćwiczenia fizyczne wpływają pozytywnie na nasze zdrowie mentalne
+    -   udowodniona jest poprawa zarządzania naszą uwagą
+        -   pozytywne wpływ na hipokamp, transmisja danych pomiędzy pamięcią krótkotrwała i długotrawłą, poprawa ukrwienia tego organu
+            -   pozytywny wpływ na naszą prace mózgu, istotnę przy zarządzaniu naszą uwagą
+-   co istotne nie jest konieczne ciżękie i długotrwałe ćwiczenia!
+    -   wystarczy 60 sekund intesywnego wysiłku fizycznego
+        -   na przykład
+            -   wykonaj 10 pompek
+            -   wykonaj 10 przysiadów
+            -   wykonaj 10 brzuszków
+            -   wykonaj 20 podskoków
+            -   wykonaj 10 podskoków na krześle
+            -   wykonaj 30 sekundowy sprint na wolnym powietrzu
+            -   poćwicz 90 sekund ze skakanką
+            -   poudawaj że ćwiczysz boks przez 60 sekund
+    -   istotne jest zwiększenie tętna, zwiększy to ilośc czerwonych krwinek dostarczanych do mózgu
+    -   można to traktować jako trubodoładowanie koncentracji!
+
 ## Prokrastynacja
 
 ### Najczęstsze przyczyny prokrastynacji
