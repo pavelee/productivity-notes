@@ -513,6 +513,22 @@
 
 #### Poznaj swój powód
 
+-   kiedy nie pracujemy w konkretnym celu, jesteśmy bardziej podatni na zakłócenia
+    -   skupiamy się na tym co podsyła nam mózg, stajemy się pasażerami, a nie kierowcami
+    -   łatwiej się rozpraszamy, jesteśmy podatni na zakłócenia
+        -   znajomi
+        -   telefon
+    -   nasz mózg będzie nas odciągał od monotonnego zadania
+-   jest to powszechne, że nie zastawiamy się dlaczego robimy to co robimy
+    -   zadaj sobie pytanie "po co robie to co robię?"
+    -   gubimy nasz cel pod ciężarem pracy i bodźców rozpraszających
+-   niezbędna jest świadomość celu, tak abyś widział dlaczego jesteś gotowy na takie poświęcenie
+    -   świadomość celu daje nam janość wizji i koncentracje na zadaniu
+        -   jest to klucz do skutecznego zarządzania uwagą
+    -   jest to działanie przeciwdziałające rozkojarzeniu, masz mózg potrzebuje świadomości wyższego celu aby być zmotywowanym do utrzymania koncentracji
+    -   jeśli się uczysz, pomyśl jak Twoja wiedza i kompetencje mogą uczynić nasz świat lepszym
+    -   jeśli pracujesz, pomyśl jak Twoja dobra praca wpłynie na rozwój biznesu, lepszej jakości produkty i prace dla innych osób
+
 ## Prokrastynacja
 
 ### Najczęstsze przyczyny prokrastynacji
