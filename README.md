@@ -38,6 +38,7 @@
         -   [Ustaw alarm](#ustaw-alarm)
         -   [Ogranicz liczbę codziennych zadań do pięciu](#ogranicz-liczbę-codziennych-zadań-do-pięciu)
         -   [Poznaj swój powód](#poznaj-swój-powód)
+        -   [Rozpoczynaj każdą sesję nauki pracy od ćwiczenia areobowego](#test)
 -   [Prokrastynacja](#prokrastynacja)
 
 ## Źródło
@@ -528,6 +529,8 @@
     -   jest to działanie przeciwdziałające rozkojarzeniu, masz mózg potrzebuje świadomości wyższego celu aby być zmotywowanym do utrzymania koncentracji
     -   jeśli się uczysz, pomyśl jak Twoja wiedza i kompetencje mogą uczynić nasz świat lepszym
     -   jeśli pracujesz, pomyśl jak Twoja dobra praca wpłynie na rozwój biznesu, lepszej jakości produkty i prace dla innych osób
+
+#### Rozpoczynaj każdą sesję nauki/pracy od ćwiczenia areobowego
 
 ## Prokrastynacja
 
