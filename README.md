@@ -568,6 +568,7 @@
 -   sama problematyka jest świetnie opisana w książce "Getting things done"
     -   istotne jest 
 
+#### Identyfikacja wyzwalaczy, które uruchamiają rozkojarzenie
 
 ## Prokrastynacja
 
