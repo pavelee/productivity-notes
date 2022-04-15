@@ -38,7 +38,7 @@
         -   [Ustaw alarm](#ustaw-alarm)
         -   [Ogranicz liczbę codziennych zadań do pięciu](#ogranicz-liczbę-codziennych-zadań-do-pięciu)
         -   [Poznaj swój powód](#poznaj-swój-powód)
-        -   [Rozpoczynaj każdą sesję nauki pracy od ćwiczenia areobowego](#test)
+        -   [Rozpoczynaj każdą sesję nauki pracy od ćwiczenia areobowego](#rozpoczynaj-każdą-sesję-naukipracy-od-ćwiczenia-areobowego)
 -   [Prokrastynacja](#prokrastynacja)
 
 ## Źródło
