@@ -39,6 +39,7 @@
         -   [Ogranicz liczbę codziennych zadań do pięciu](#ogranicz-liczbę-codziennych-zadań-do-pięciu)
         -   [Poznaj swój powód](#poznaj-swój-powód)
         -   [Rozpoczynaj każdą sesję nauki pracy od ćwiczenia areobowego](#rozpoczynaj-każdą-sesję-naukipracy-od-ćwiczenia-areobowego)
+        -   [Uwijaj się, łapiąc pomysły](#uwijaj-się-łapiąc-pomysły)
 -   [Prokrastynacja](#prokrastynacja)
 
 ## Źródło
@@ -551,6 +552,22 @@
     -   można to traktować jako trubodoładowanie koncentracji!
 
 #### Uwijaj się, łapiąc pomysły
+
+-   przeszkodą na drodze do koncentracji są nie dokońca dopracowane pomysły i koncepcje
+    -   musimy z nimi walczyć niemal codziennie
+    -   domagają się naszej uwagi
+    -   takie myśli nie chca się ulotnić
+        -   na przykłąd sprawdzić jakiś framework, wziąśc udział w hackathlone
+        -   zwodzi nas to od zadania do wykonania
+-   sama pomysłowość jest pozytywna, nie należy tego blokować
+    -   natomiast jak to wymyka się z pod kontroli to tracimy koncentracje ciągle zmieniając uwagę na nowym pomyśle
+-   najprostszym sposobem radzenia sobie z tym to jest zapisanie tych pomysłów!
+    -    to przeciwdziała otwartej pętli w głowie
+    -   istotne jest utworzenie jednego i jedynego rejestru pomysłów
+        -   Twoja podświadomość musi być pewna, że pomysł jest bezpieczny, inaczej to będzie nawracać
+-   sama problematyka jest świetnie opisana w książce "Getting things done"
+    -   istotne jest 
+
 
 ## Prokrastynacja
 
