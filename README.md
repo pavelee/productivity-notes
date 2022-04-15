@@ -550,6 +550,8 @@
     -   istotne jest zwiększenie tętna, zwiększy to ilośc czerwonych krwinek dostarczanych do mózgu
     -   można to traktować jako trubodoładowanie koncentracji!
 
+#### Uwijaj się, łapiąc pomysły
+
 ## Prokrastynacja
 
 ### Najczęstsze przyczyny prokrastynacji
