@@ -567,7 +567,6 @@
     -   istotne jest utworzenie jednego i jedynego rejestru pomysłów
         -   Twoja podświadomość musi być pewna, że pomysł jest bezpieczny, inaczej to będzie nawracać
 -   sama problematyka jest świetnie opisana w książce "Getting things done"
-    -   istotne jest 
 
 #### Identyfikacja wyzwalaczy, które uruchamiają rozkojarzenie
 
