@@ -40,6 +40,7 @@
         -   [Poznaj swój powód](#poznaj-swój-powód)
         -   [Rozpoczynaj każdą sesję nauki pracy od ćwiczenia areobowego](#rozpoczynaj-każdą-sesję-naukipracy-od-ćwiczenia-areobowego)
         -   [Uwijaj się, łapiąc pomysły](#uwijaj-się-łapiąc-pomysły)
+        -   [Identyfikacja wyzwalaczy, które uruchamiają rozkojarzenie](#identyfikacja-wyzwalaczy-które-uruchamiają-rozkojarzenie)
 -   [Prokrastynacja](#prokrastynacja)
 
 ## Źródło
