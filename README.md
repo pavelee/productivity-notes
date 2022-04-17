@@ -41,6 +41,7 @@
         -   [Rozpoczynaj każdą sesję nauki pracy od ćwiczenia areobowego](#rozpoczynaj-każdą-sesję-naukipracy-od-ćwiczenia-areobowego)
         -   [Uwijaj się, łapiąc pomysły](#uwijaj-się-łapiąc-pomysły)
         -   [Identyfikacja wyzwalaczy, które uruchamiają rozkojarzenie](#identyfikacja-wyzwalaczy-które-uruchamiają-rozkojarzenie)
+        -   [Codzienna kontrola listy zadań](#codzienna-kontrola-listy-zadań)
 -   [Prokrastynacja](#prokrastynacja)
 
 ## Źródło
@@ -596,6 +597,8 @@
         -   zbyt częste sprawdzanie poczty email
         -   otwarta zakładka z gmail, która mruga w momencie pojawienia się nowej wiadomości
             -   rozwiazaniem może być pozbycie się zakładki oraz sprawdzanie poczty tylko dwa razy dziennie np. o 12 oraz 17
+
+#### Codzienna kontrola listy zadań
 
 ## Prokrastynacja
 
