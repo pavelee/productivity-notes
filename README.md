@@ -568,7 +568,34 @@
         -   Twoja podświadomość musi być pewna, że pomysł jest bezpieczny, inaczej to będzie nawracać
 -   sama problematyka jest świetnie opisana w książce "Getting things done"
 
-#### Identyfikacja wyzwalaczy, które uruchamiają rozkojarzenie
+#### Identyfikacja wyzwalaczy, które uruchamiają rozkojarzenie (3_07)
+
+-   rozkojarzenie pojawia się pod wpływem wyzwalacza 
+    -   wewnętrzny lub zewnętrzny bodźiec niszczy koncentrację i odciąga nas od zadania 
+-   przykładowe wewnętrzne wyzwalacze które zakłócające koncentracje (psychiczne oraz fizjologiczne)
+    -   głód
+        -   jeśli obok Ciebie jest Twój ulubiony batonik, ciężko będzie Ci się skupić na zdaniu
+    -   skłonność do odwlekania pracy w czasie 
+    -   nuda, niepokój, depresja
+    -   frustracja 
+    -   ból (zęba, głowy itp.)
+    -   kiepski nastrój  
+-   przykładowe zewnętrzne wyzwalacze które zakłócające koncentracje
+    -   emaile 
+    -   smsy 
+    -   telefony 
+    -   media społecznościowe 
+    -   programy informacyjne w telewizji
+    -   internet 
+    -   hałaśliwi współpracownicy 
+-   jeśli masz skłonność do prokrastynacji, to Twój umysł zawsze znajdzie sposób aby skierować myśli w innym kierunku  
+-   istotne jest aby usunąć bodźce które prowadzą do rozkojarzenia 
+    -   zastanówmy się jakie wyzwalacze istnieją w naszym przypadku
+        -   następnie zastanówmy się jak można powyższe wyzwalacze unikać, tłumić, pozbyć się
+    -   na przykład
+        -   zbyt częste sprawdzanie poczty email
+        -   otwarta zakładka z gmail, która mruga w momencie pojawienia się nowej wiadomości
+            -   rozwiazaniem może być pozbycie się zakładki oraz sprawdzanie poczty tylko dwa razy dziennie np. o 12 oraz 17
 
 ## Prokrastynacja
 
