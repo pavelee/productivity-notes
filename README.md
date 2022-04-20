@@ -42,6 +42,7 @@
         -   [Uwijaj się, łapiąc pomysły](#uwijaj-się-łapiąc-pomysły)
         -   [Identyfikacja wyzwalaczy, które uruchamiają rozkojarzenie](#identyfikacja-wyzwalaczy-które-uruchamiają-rozkojarzenie)
         -   [Codzienna kontrola listy zadań](#codzienna-kontrola-listy-zadań)
+        -   [Pracuj przy muzyce, która pozwoli Ci wejść na poziom przepływu](#pracuj-przy-muzyce-która-pozwoli-ci-wejść-na-poziom-przepływu)
 -   [Prokrastynacja](#prokrastynacja)
 
 ## Źródło
