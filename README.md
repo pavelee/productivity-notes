@@ -569,7 +569,7 @@
         -   Twoja podświadomość musi być pewna, że pomysł jest bezpieczny, inaczej to będzie nawracać
 -   sama problematyka jest świetnie opisana w książce "Getting things done"
 
-#### Identyfikacja wyzwalaczy, które uruchamiają rozkojarzenie (3_07)
+#### Identyfikacja wyzwalaczy, które uruchamiają rozkojarzenie
 
 -   rozkojarzenie pojawia się pod wpływem wyzwalacza 
     -   wewnętrzny lub zewnętrzny bodźiec niszczy koncentrację i odciąga nas od zadania 
@@ -599,6 +599,21 @@
             -   rozwiazaniem może być pozbycie się zakładki oraz sprawdzanie poczty tylko dwa razy dziennie np. o 12 oraz 17
 
 #### Codzienna kontrola listy zadań
+
+-   Celem jest zapisanie wszystkich zadań, projektów którymi trzeba się w pewnym momencie zająć
+    -   pozwala to wyjąć myśli z głowy (pamięci krótkotrwałej), gdzie zachowują się jak otwarte pętle
+    -   łatwiej jest Ci skoncentrowac się na pracy która musisz wykonać
+-   Listy są skuteczne z powodu efektu Zeigarnika
+    -   nie ukończone zadania przyciągają więcej uwagi umysłu niż te które zotały zakończone
+    -   nie ukończone zadania zostają otwartymi pętlami w naszym umyśle, powracają w naszym umyśle odciągając koncentrację
+-   Zapisanie zadania na liście jest kluczowe
+    -   pozwala Ci na skoncentrowaniu się na najbliższym działaniu, bez otwartych pętli
+    -   zapewnia Twoją podświadomość że temat jest zapisany w bezpiecznym miejscu
+    -   nie musisz martnować zasobów umysłu na utrzymanie tematów w pamięci krótkotwałej (kora przedczołowa)
+-   sam nośnik jest mniej istotny niż rejestrowanie zadań
+    -   papier i długopis
+    -   narzędzia w chmure
+    -   inne nośniki które uważasz za bezpieczne i wygodne
 
 ## Prokrastynacja
 
