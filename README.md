@@ -615,6 +615,8 @@
     -   narzędzia w chmure
     -   inne nośniki które uważasz za bezpieczne i wygodne
 
+#### Pracuj przy muzyce, która pozwoli Ci wejść na poziom przepływu
+
 ## Prokrastynacja
 
 ### Najczęstsze przyczyny prokrastynacji
