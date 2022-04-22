@@ -618,6 +618,20 @@
 
 #### Pracuj przy muzyce, która pozwoli Ci wejść na poziom przepływu
 
+-   muzyka wspiera naszą koncentracje
+    -   zagłusza dźwięki z otoczenia
+    -   pomaga osiąnąć stan "przepływu"
+-   stan przepływu znacząco zwiększa naszą efektywność pracy
+    -   zatracamy się skupieni na zadaniu
+-   najlepiej działa muzyka instrumentalna
+    -   utwory myzyczne z tekstami są rozpraszające
+        -   wyątkiem są bardzo dobrze znane utwory, tekst ginie w tle
+    -   świetnie sprawdza się muzyka klasyczna
+        -   szczególnie muzyka barokowa
+    -   należy toche eksperymentować, znaleść swój typ muzyki
+-   Dobrym trikiem jest słuchanie w kółko jednego utworu
+    -   To jest najskuteczniejszy sposób osiągniecia stanu przepływu
+
 ## Prokrastynacja
 
 ### Najczęstsze przyczyny prokrastynacji
