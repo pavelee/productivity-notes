@@ -43,6 +43,7 @@
         -   [Identyfikacja wyzwalaczy, które uruchamiają rozkojarzenie](#identyfikacja-wyzwalaczy-które-uruchamiają-rozkojarzenie)
         -   [Codzienna kontrola listy zadań](#codzienna-kontrola-listy-zadań)
         -   [Pracuj przy muzyce, która pozwoli Ci wejść na poziom przepływu](#pracuj-przy-muzyce-która-pozwoli-ci-wejść-na-poziom-przepływu)
+        -   [Rób częste przerwy](#rób-częste-przerwy)
 -   [Prokrastynacja](#prokrastynacja)
 
 ## Źródło
@@ -631,6 +632,8 @@
     -   należy toche eksperymentować, znaleść swój typ muzyki
 -   Dobrym trikiem jest słuchanie w kółko jednego utworu
     -   To jest najskuteczniejszy sposób osiągniecia stanu przepływu
+
+#### Rób częste przerwy
 
 ## Prokrastynacja
 
