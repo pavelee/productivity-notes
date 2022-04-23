@@ -44,6 +44,7 @@
         -   [Codzienna kontrola listy zadań](#codzienna-kontrola-listy-zadań)
         -   [Pracuj przy muzyce, która pozwoli Ci wejść na poziom przepływu](#pracuj-przy-muzyce-która-pozwoli-ci-wejść-na-poziom-przepływu)
         -   [Rób częste przerwy](#rób-częste-przerwy)
+        -   [Idź na krótki spacer](#idź-na-krótki-spacer)
 -   [Prokrastynacja](#prokrastynacja)
 
 ## Źródło
@@ -661,6 +662,8 @@
         -   ma to być forma nagrody za wykonaną prace
     -   krótka sesja z grą (alternatywa do uspołecznionych przerw)
         -   zagraj w swoją ulubioną grę
+
+#### Idź na krótki spacer 03_11
 
 ## Prokrastynacja
 
