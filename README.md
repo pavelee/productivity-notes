@@ -635,6 +635,33 @@
 
 #### Rób częste przerwy
 
+-   Robinienie częstych krótkich przerw pomaga lepiej skupić się na zadaniu
+    -   czym dłużej coś robimy tym trudniej jest utrzymać koncentracje
+    -   nasze mózgi potrzebują przerwy
+-   Przerwy pozwalają nam odświeżyć umysł co za tym idzie lepiej utrzymywać koncentracje
+-   Ironicznie pracowanie bez przerw jest mniej wydajne
+    -   mózg staje się mniej wydajny
+    -   popełniamy więcej błędów
+    -   spada nasza produktywność
+    -   wydłuża to wykonanie samego zadania
+-   Sposoby na wdrożenie małych przerw
+    -   podziel prace na mniejsze kawałki
+        -   technika pomodoro
+            -   cykle 25 minut pracy, 5 minut przerwy
+    -   monitoruj swój poziom uwagi 
+        -   w momencie jak czujesz że tracisz kocentrację, przerwij pracę i zrób sobie przerwe
+            -   przejdz się
+            -   zjedz zdrową przekąske
+    -   zaplanuj krótkie drzemki do odyskania wigoru (power naps)
+        -   od 10 do 30 minut
+        -   nie próbuj zasypiać, to tylko zamknięcie oczu i relaks
+        -   45 minut pracy, 10 minut drzemki
+    -   uspołecznij swoje przerwy
+        -   zadzwoń do kogoś bliskiego
+        -   ma to być forma nagrody za wykonaną prace
+    -   krótka sesja z grą (alternatywa do uspołecznionych przerw)
+        -   zagraj w swoją ulubioną grę
+
 ## Prokrastynacja
 
 ### Najczęstsze przyczyny prokrastynacji
