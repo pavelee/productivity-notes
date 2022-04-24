@@ -45,6 +45,7 @@
         -   [Pracuj przy muzyce, która pozwoli Ci wejść na poziom przepływu](#pracuj-przy-muzyce-która-pozwoli-ci-wejść-na-poziom-przepływu)
         -   [Rób częste przerwy](#rób-częste-przerwy)
         -   [Idź na krótki spacer](#idź-na-krótki-spacer)
+        -   [Skup się na pojedyńczym zadaniu](#skup-się-na-pojedyńczym-zadaniu)
 -   [Prokrastynacja](#prokrastynacja)
 
 ## Źródło
@@ -672,6 +673,8 @@
 -   Badania potwierdzają że krótki spacer poprawia kocentrację oraz pamięć krótkotrwała
 -   Efekt jest jeszcze lepszy jeśli spacer wykonujemy w naturalnym środowisku
     -   np. w lesie 
+
+#### Skup się na pojedyńczym zadaniu
 
 ## Prokrastynacja
 
