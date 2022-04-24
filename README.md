@@ -663,7 +663,15 @@
     -   krótka sesja z grą (alternatywa do uspołecznionych przerw)
         -   zagraj w swoją ulubioną grę
 
-#### Idź na krótki spacer 03_11
+#### Idź na krótki spacer
+
+-   Jest to świetna forma odświeżenia umysłu
+    -   świeże powietrze
+    -   eleminacja zmęczenia psychicznego
+    -   zresetowanie naszej uwagi, pomaga wrócić do zadania z nową siłą kocentracji
+-   Badania potwierdzają że krótki spacer poprawia kocentrację oraz pamięć krótkotrwała
+-   Efekt jest jeszcze lepszy jeśli spacer wykonujemy w naturalnym środowisku
+    -   np. w lesie 
 
 ## Prokrastynacja
 
