@@ -676,6 +676,20 @@
 
 #### Skup się na pojedyńczym zadaniu
 
+-   wielozadaniowość nie sprawdza się
+    -   badania potwierdzają, że próba zajmowania się kilkoma sprawami naraz zwiększa ryzyko rozpraszania się
+-   Nasze mózgi nie są zdolne do skupienia się na kilku rzeczach naraz
+    -   przetwarzają infromację poprzez kolejkowanie
+    -   kiedy mamy kilka spraw naraz nasz mózg dzieli swoją moc obliczeniową i przeskakuje pomiędzy wątkami (przełączanie zadań)
+-   przełączanie się pomiędzy zadaniami ma negatywne skutki
+    -   wiele zadań pozostaje nie dokończonych (otwarte pętle)
+    -   podczas przełączania spada jakość pracy i zwiększa się ilość błędów
+    -   chcąc jednocześnie oglądać film i czytać książke, nie zapamiętasz wiele z obu czynności. To manotractwo czasu.
+-   skupiając się na jednym zadaniu zwiększamy naszą efektywność i jakość pracy
+    -   oprzyj się pokusie przełączania się na inne zadanie
+    -   początkowo to może być trudne, szczególnie jeśli wcześniej miałeś tendencje do przełączania się pomiędzy zadaniami
+    -   jest to bardzo istotna umiętność do mistrzostwa w zarządaniu uwagą
+
 ## Prokrastynacja
 
 ### Najczęstsze przyczyny prokrastynacji
