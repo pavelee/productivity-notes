@@ -690,6 +690,8 @@
     -   początkowo to może być trudne, szczególnie jeśli wcześniej miałeś tendencje do przełączania się pomiędzy zadaniami
     -   jest to bardzo istotna umiętność do mistrzostwa w zarządaniu uwagą
 
+#### Przetwarzanie wsadowe - łącz podobne zadania w jeden blok
+
 ## Prokrastynacja
 
 ### Najczęstsze przyczyny prokrastynacji
