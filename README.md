@@ -706,6 +706,8 @@
 -   Przetwarzanie wsadowe ma najwiękze zalety w przypadku zadań które nie wymagają kretywnego/analitycznego podejścia
     -   na przykład odpowiadanie na maile
 
+#### Uporządkuj swój dzień, dzieląc go na bloki
+
 ## Prokrastynacja
 
 ### Najczęstsze przyczyny prokrastynacji
