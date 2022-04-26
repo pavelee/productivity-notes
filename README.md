@@ -693,6 +693,19 @@
 
 #### Przetwarzanie wsadowe - łącz podobne zadania w jeden blok
 
+-   Przygotowanie pracy wsadowej
+    -   Przeanalizuj wszystkie zadania zaplanowane na dzisiaj
+    -   Wskaż zadania, która są do siebie podobne i zgrupuj je
+        -   telefony
+        -   zadania w pracy
+        -   zadania domowe
+    -   Każdej grupie przydziel ilość czasu jaką chcesz poświecić
+        -   Następnie koniecznie należy trzymać się grupy zadań na które przyszła pora
+-   Zaletami takiej metody jest optymalizacja zasobów poznawczych, dzięki zajmowania się podobnymi tematami
+    -   zmniejszamy koszt zmiany kontekstu
+-   Przetwarzanie wsadowe ma najwiękze zalety w przypadku zadań które nie wymagają kretywnego/analitycznego podejścia
+    -   na przykład odpowiadanie na maile
+
 ## Prokrastynacja
 
 ### Najczęstsze przyczyny prokrastynacji
