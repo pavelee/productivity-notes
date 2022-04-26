@@ -47,6 +47,7 @@
         -   [Idź na krótki spacer](#idź-na-krótki-spacer)
         -   [Skup się na pojedyńczym zadaniu](#skup-się-na-pojedyńczym-zadaniu)
         -   [Przetwarzanie wsadowe - łącz podobne zadania w jeden blok](#przetwarzanie-wsadowe---łącz-podobne-zadania-w-jeden-blok)
+        -   [Uporządkuj swój dzień, dzieląc go na bloki](#przetwarzanie-wsadowe---łącz-podobne-zadania-w-jeden-blok)
 -   [Prokrastynacja](#prokrastynacja)
 
 ## Źródło
