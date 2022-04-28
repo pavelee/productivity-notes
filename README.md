@@ -48,6 +48,7 @@
         -   [Skup się na pojedyńczym zadaniu](#skup-się-na-pojedyńczym-zadaniu)
         -   [Przetwarzanie wsadowe - łącz podobne zadania w jeden blok](#przetwarzanie-wsadowe---łącz-podobne-zadania-w-jeden-blok)
         -   [Uporządkuj swój dzień, dzieląc go na bloki](#przetwarzanie-wsadowe---łącz-podobne-zadania-w-jeden-blok)
+        -   [Odetnij sieć](#odetnij-sieć)
 -   [Prokrastynacja](#prokrastynacja)
 
 ## Źródło
@@ -737,6 +738,10 @@
             -   45 minut praca, 15 minut przerwa
             -   45 minut praca, 20 minut przerwa
         -   istotne jest zwiększanie długości przerwy co każde 45 minut pracy, potrzebujemy coraz dłuższej przerwy aby znowu mieć siłę na koncentrację
+
+#### Odetnij sieć
+
+
 
 ## Prokrastynacja
 
