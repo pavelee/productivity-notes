@@ -709,6 +709,35 @@
 
 #### Uporządkuj swój dzień, dzieląc go na bloki
 
+-   nazwywany też
+    -   blokowaniem czasu
+    -   pomodoro
+    -   dzieleniem czasu an bloki
+-   technika polega na dzielniu pracy na dwa etapy
+    -   określenie ramy czasowej na wykonanie zadania
+        -    może to być 10 minut, lub 5 godzin
+    -   wyznaczonym czasie zajmujesz się tylko jednym zadaniem
+-   korzyści z podziału na bloki
+    -   sprawia że rośnie Twoja produktywność 
+        -   przydzielenie czasu automatycznie ustala termin końcowy wykonania zadania
+        -   "praca rozciąga się tak aby wypełnić czas na jej wykonanie" - prawo Parkinsona
+            -   skrócenie czasu może w efekcie skrócić czas wykonania zadania
+    -   stajesz się bardziej zrelaksowany
+        -   nie będziesz się stresować tym czy masz wystarczająco czasu na wykonanie tego co się znajduje na liście do zrobienia 
+        -   posiadasz harmonogram na dzisiejszy dzień
+    -   rośnie poziom skupienia
+        -   jesteś świadomy na czym masz się teraz skupić
+        -   odrzucasz inne wrzutki
+-   jak podzielić dzień na bloki?
+    -   potrzebujemy wiedzy ile czasu zajmuję wykonanie zadań
+    -   następnie przenieś bloki czasu na kalendarz
+    -   jeśli bloki są dłuższe niż 45 minut to zaplanuj conajmniej jedną przerwę na każde 45 minut pracy
+        -   na przykład
+            -   45 minut praca, 10 minut przerwa
+            -   45 minut praca, 15 minut przerwa
+            -   45 minut praca, 20 minut przerwa
+        -   istotne jest zwiększanie długości przerwy co każde 45 minut pracy, potrzebujemy coraz dłuższej przerwy aby znowu mieć siłę na koncentrację
+
 ## Prokrastynacja
 
 ### Najczęstsze przyczyny prokrastynacji
