@@ -51,6 +51,9 @@
         -   [Odetnij sieć](#odetnij-sieć)
         -   [Ogranicz czas, który spędzasz na spotkaniach](#ogranicz-czas-który-spędzasz-na-spotkaniach)
 -   [Prokrastynacja](#prokrastynacja)
+-   [Metoda GTD](#metoda-gtd)
+        -   [Planowanie projektu](#planowanie-projektu)
+            -   [Planowanie Naturalne](#planowanie-naturalne)
 
 ## Źródło
 
@@ -751,11 +754,29 @@
     -   wyłącz telefon / tryb skupienia (brak powiadomień)
     -   celem jest eleminacja potencjalnych przeszkód na samym początku pracy!
 
-#### Ogranicz czas, który spędzasz na spotkaniach
-
-
+#### Ogranicz czas, który spędzasz na spotkaniach (3_16)
 
 
 ## Prokrastynacja
 
 ### Najczęstsze przyczyny prokrastynacji
+
+## Metoda GTD
+
+### Planowanie projektu
+
+#### Planowanie Naturalne
+
+-   Nasz umysł to maszyna do planowania
+-   Planowanie naturalne składa się z 5 etapów
+    -   definiowanie celów i zasad
+    -   przedstawienie wizji rezultatów końcowych
+    -   burza mózgów
+    -   porządkowanie
+    -   identyfikacja najbliższych działań
+-   Spróbuj sam! Wybierz jakiś projekt (nowy / w trakcie / wymagający dopracowania)
+    -   Pomyśl o swoim celu, pomyśl jak będzie wyglądał jego pożądany rezultat
+    -   użyj burzy mózgów do określenia kroków możliwych do podjęcia
+    -   uporządkuj swoje pomysły
+    -   podejmij decyzje co do najblższych działań
+    -   czy nie stało się dla Ciebie bardziej klarowne dokąd zmieżasz i jak się tam dostać?
