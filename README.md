@@ -49,7 +49,7 @@
         -   [Przetwarzanie wsadowe - łącz podobne zadania w jeden blok](#przetwarzanie-wsadowe---łącz-podobne-zadania-w-jeden-blok)
         -   [Uporządkuj swój dzień, dzieląc go na bloki](#przetwarzanie-wsadowe---łącz-podobne-zadania-w-jeden-blok)
         -   [Odetnij sieć](#odetnij-sieć)
-        -   [Ogranicz czas, który spędzasz na spotkaniach](#a)
+        -   [Ogranicz czas, który spędzasz na spotkaniach](#ogranicz-czas-który-spędzasz-na-spotkaniach)
 -   [Prokrastynacja](#prokrastynacja)
 
 ## Źródło
