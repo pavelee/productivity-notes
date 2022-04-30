@@ -49,6 +49,7 @@
         -   [Przetwarzanie wsadowe - łącz podobne zadania w jeden blok](#przetwarzanie-wsadowe---łącz-podobne-zadania-w-jeden-blok)
         -   [Uporządkuj swój dzień, dzieląc go na bloki](#przetwarzanie-wsadowe---łącz-podobne-zadania-w-jeden-blok)
         -   [Odetnij sieć](#odetnij-sieć)
+        -   [Ogranicz czas, który spędzasz na spotkaniach](#a)
 -   [Prokrastynacja](#prokrastynacja)
 
 ## Źródło
@@ -750,7 +751,7 @@
     -   wyłącz telefon / tryb skupienia (brak powiadomień)
     -   celem jest eleminacja potencjalnych przeszkód na samym początku pracy!
 
-
+#### Ogranicz czas, który spędzasz na spotkaniach
 
 
 
