@@ -741,6 +741,18 @@
 
 #### Odetnij sieć
 
+-   Dla przeciętnego człowiek dzisiejszych czasów internet i telefon to podstawowe przeszkody w utrzymaniu koncentracji
+-   Powiadomienie odciągają nas od wykonywania zadań
+    -   w przypadku ignorowania sygnału dźwiękowego nasz umysł tworzy otwartą pętle aby sprawdzić co to za powiadomienie przyszło
+-   jedno wyszukanie w Google może nas pochłonąć nawet na godziny
+-   powyższe przeszkody powodują ogromnę problemy z utrzymaniem kocentracji na zadaniu, nawet złote rybki potrawią mieć zdolność do dłuższej kocentracji niż człowiek
+-   Rozwiązanie jest bardzo proste, odciąć się od sieci podczas pracy
+    -   wyłącz telefon / tryb skupienia (brak powiadomień)
+    -   celem jest eleminacja potencjalnych przeszkód na samym początku pracy!
+
+
+
+
 
 
 ## Prokrastynacja
