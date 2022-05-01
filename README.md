@@ -50,6 +50,7 @@
         -   [Uporządkuj swój dzień, dzieląc go na bloki](#przetwarzanie-wsadowe---łącz-podobne-zadania-w-jeden-blok)
         -   [Odetnij sieć](#odetnij-sieć)
         -   [Ogranicz czas, który spędzasz na spotkaniach](#ogranicz-czas-który-spędzasz-na-spotkaniach)
+        -   [Zresetuj oczekiwania innych](#zresetuj-oczekiwania-innych)
 -   [Prokrastynacja](#prokrastynacja)
 -   [Metoda GTD](#metoda-gtd)
         -   [Planowanie projektu](#planowanie-projektu)
@@ -776,6 +777,8 @@
     -   unikaj spotkań na które przychodzi ponad 10 osób 
     -   poproś o trzymanie się ustalonego porządku i tematu
     -   poproś aby wszystkie spotkania miały miejsce po posiłku, w porannych godzinach mamy najlepszą efektywność, wykorzytaj ten czas na indywidualną pracę
+
+#### Zresetuj oczekiwania innych
 
 ## Prokrastynacja
 
