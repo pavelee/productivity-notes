@@ -754,8 +754,28 @@
     -   wyłącz telefon / tryb skupienia (brak powiadomień)
     -   celem jest eleminacja potencjalnych przeszkód na samym początku pracy!
 
-#### Ogranicz czas, który spędzasz na spotkaniach (3_16)
+#### Ogranicz czas, który spędzasz na spotkaniach
 
+-   Jest to typowe w korporacjach że mamy mnóstwo spotkań
+    -   każde takie spotaknie wysysa mnóstwo czasu z naszego harmonogramu
+    -   takie spotkania są często przeciągane
+    -   niestety wielu ludzi czuje się komfortowo jeśli spotkania się przedłużają...
+    -   spotkania są traktowane jak zapychacze czasu
+-   ogranicznie spotkań jest istotnę do uzyskania i utrzymania stanu przepływu, aby mieć jak najdłuższe bloki pracy nad konkretnym tematem
+-   zastanów się jak wygląda Twój dzień
+    -   Czy dużo czasu marnujesz na spotkaniach?
+    -   Czy chcesz odzyskać ten czas lub wykorzystać go bardziej produktywnie?
+    -   Czy masz już dość odkładania parcy na bok i uczestniczenia w spotkaniach mimo, że wiesz że mają niską wartość?
+-   możliwe rozwiązania
+    -   zamiast umawiać spotkanie, zróbmy to tu i teraz! Najlepiej na stojąco
+        -   pozwala to podjąć decyzje w znacznie krótszym czasie, nawet paru minut!
+        -   spotkanie na jeden temat nie powinno trawać dłużej niż 5-10 minut 
+    -   jeśli to możliwe zaproponuj aby uczestnicy cały czas stali
+    -   unikaj spotkań z jedzeniem i rozrywką, to tłumi motywacje do pośpiechu, co za tym idzie wydłuża spotkania
+    -   jeśli jesteś odpowiedzalny za organizowanie spotkania to zorganizuj czas krótszy niż zwykle, np. zamiast 1h, przeznacz tylko 15 minut
+    -   unikaj spotkań na które przychodzi ponad 10 osób 
+    -   poproś o trzymanie się ustalonego porządku i tematu
+    -   poproś aby wszystkie spotkania miały miejsce po posiłku, w porannych godzinach mamy najlepszą efektywność, wykorzytaj ten czas na indywidualną pracę
 
 ## Prokrastynacja
 
