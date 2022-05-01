@@ -52,9 +52,7 @@
         -   [Ogranicz czas, który spędzasz na spotkaniach](#ogranicz-czas-który-spędzasz-na-spotkaniach)
         -   [Zresetuj oczekiwania innych](#zresetuj-oczekiwania-innych)
 -   [Prokrastynacja](#prokrastynacja)
--   [Metoda GTD](#metoda-gtd)
-        -   [Planowanie projektu](#planowanie-projektu)
-            -   [Planowanie Naturalne](#planowanie-naturalne)
+-   [Metoda GTD](#metoda-gtd) - [Planowanie projektu](#planowanie-projektu) - [Planowanie Naturalne](#planowanie-naturalne)
 
 ## Źródło
 
@@ -576,33 +574,33 @@
 -   sama pomysłowość jest pozytywna, nie należy tego blokować
     -   natomiast jak to wymyka się z pod kontroli to tracimy koncentracje ciągle zmieniając uwagę na nowym pomyśle
 -   najprostszym sposobem radzenia sobie z tym to jest zapisanie tych pomysłów!
-    -    to przeciwdziała otwartej pętli w głowie
+    -   to przeciwdziała otwartej pętli w głowie
     -   istotne jest utworzenie jednego i jedynego rejestru pomysłów
         -   Twoja podświadomość musi być pewna, że pomysł jest bezpieczny, inaczej to będzie nawracać
 -   sama problematyka jest świetnie opisana w książce "Getting things done"
 
 #### Identyfikacja wyzwalaczy, które uruchamiają rozkojarzenie
 
--   rozkojarzenie pojawia się pod wpływem wyzwalacza 
-    -   wewnętrzny lub zewnętrzny bodźiec niszczy koncentrację i odciąga nas od zadania 
+-   rozkojarzenie pojawia się pod wpływem wyzwalacza
+    -   wewnętrzny lub zewnętrzny bodźiec niszczy koncentrację i odciąga nas od zadania
 -   przykładowe wewnętrzne wyzwalacze które zakłócające koncentracje (psychiczne oraz fizjologiczne)
     -   głód
         -   jeśli obok Ciebie jest Twój ulubiony batonik, ciężko będzie Ci się skupić na zdaniu
-    -   skłonność do odwlekania pracy w czasie 
+    -   skłonność do odwlekania pracy w czasie
     -   nuda, niepokój, depresja
-    -   frustracja 
+    -   frustracja
     -   ból (zęba, głowy itp.)
-    -   kiepski nastrój  
+    -   kiepski nastrój
 -   przykładowe zewnętrzne wyzwalacze które zakłócające koncentracje
-    -   emaile 
-    -   smsy 
-    -   telefony 
-    -   media społecznościowe 
+    -   emaile
+    -   smsy
+    -   telefony
+    -   media społecznościowe
     -   programy informacyjne w telewizji
-    -   internet 
-    -   hałaśliwi współpracownicy 
--   jeśli masz skłonność do prokrastynacji, to Twój umysł zawsze znajdzie sposób aby skierować myśli w innym kierunku  
--   istotne jest aby usunąć bodźce które prowadzą do rozkojarzenia 
+    -   internet
+    -   hałaśliwi współpracownicy
+-   jeśli masz skłonność do prokrastynacji, to Twój umysł zawsze znajdzie sposób aby skierować myśli w innym kierunku
+-   istotne jest aby usunąć bodźce które prowadzą do rozkojarzenia
     -   zastanówmy się jakie wyzwalacze istnieją w naszym przypadku
         -   następnie zastanówmy się jak można powyższe wyzwalacze unikać, tłumić, pozbyć się
     -   na przykład
@@ -658,7 +656,7 @@
     -   podziel prace na mniejsze kawałki
         -   technika pomodoro
             -   cykle 25 minut pracy, 5 minut przerwy
-    -   monitoruj swój poziom uwagi 
+    -   monitoruj swój poziom uwagi
         -   w momencie jak czujesz że tracisz kocentrację, przerwij pracę i zrób sobie przerwe
             -   przejdz się
             -   zjedz zdrową przekąske
@@ -680,7 +678,7 @@
     -   zresetowanie naszej uwagi, pomaga wrócić do zadania z nową siłą kocentracji
 -   Badania potwierdzają że krótki spacer poprawia kocentrację oraz pamięć krótkotrwała
 -   Efekt jest jeszcze lepszy jeśli spacer wykonujemy w naturalnym środowisku
-    -   np. w lesie 
+    -   np. w lesie
 
 #### Skup się na pojedyńczym zadaniu
 
@@ -721,15 +719,15 @@
     -   dzieleniem czasu an bloki
 -   technika polega na dzielniu pracy na dwa etapy
     -   określenie ramy czasowej na wykonanie zadania
-        -    może to być 10 minut, lub 5 godzin
+        -   może to być 10 minut, lub 5 godzin
     -   wyznaczonym czasie zajmujesz się tylko jednym zadaniem
 -   korzyści z podziału na bloki
-    -   sprawia że rośnie Twoja produktywność 
+    -   sprawia że rośnie Twoja produktywność
         -   przydzielenie czasu automatycznie ustala termin końcowy wykonania zadania
         -   "praca rozciąga się tak aby wypełnić czas na jej wykonanie" - prawo Parkinsona
             -   skrócenie czasu może w efekcie skrócić czas wykonania zadania
     -   stajesz się bardziej zrelaksowany
-        -   nie będziesz się stresować tym czy masz wystarczająco czasu na wykonanie tego co się znajduje na liście do zrobienia 
+        -   nie będziesz się stresować tym czy masz wystarczająco czasu na wykonanie tego co się znajduje na liście do zrobienia
         -   posiadasz harmonogram na dzisiejszy dzień
     -   rośnie poziom skupienia
         -   jesteś świadomy na czym masz się teraz skupić
@@ -770,11 +768,11 @@
 -   możliwe rozwiązania
     -   zamiast umawiać spotkanie, zróbmy to tu i teraz! Najlepiej na stojąco
         -   pozwala to podjąć decyzje w znacznie krótszym czasie, nawet paru minut!
-        -   spotkanie na jeden temat nie powinno trawać dłużej niż 5-10 minut 
+        -   spotkanie na jeden temat nie powinno trawać dłużej niż 5-10 minut
     -   jeśli to możliwe zaproponuj aby uczestnicy cały czas stali
     -   unikaj spotkań z jedzeniem i rozrywką, to tłumi motywacje do pośpiechu, co za tym idzie wydłuża spotkania
     -   jeśli jesteś odpowiedzalny za organizowanie spotkania to zorganizuj czas krótszy niż zwykle, np. zamiast 1h, przeznacz tylko 15 minut
-    -   unikaj spotkań na które przychodzi ponad 10 osób 
+    -   unikaj spotkań na które przychodzi ponad 10 osób
     -   poproś o trzymanie się ustalonego porządku i tematu
     -   poproś aby wszystkie spotkania miały miejsce po posiłku, w porannych godzinach mamy najlepszą efektywność, wykorzytaj ten czas na indywidualną pracę
 
@@ -803,3 +801,21 @@
     -   uporządkuj swoje pomysły
     -   podejmij decyzje co do najblższych działań
     -   czy nie stało się dla Ciebie bardziej klarowne dokąd zmieżasz i jak się tam dostać?
+
+#### Planowanie nienaturalne
+
+-   Jest to model bardziej standardowy, wykorzystywany przez większość środowisk
+-   Zaczynanie burzy mózgów pytaniem "Czy ktoś ma DOBRY pomysł w tej kwestii?"
+    -   takie pytanie ma tylko sens jeśli pracę nad projektem są wykonane w 80%
+    -   Zadawanie takiego pytania na samym początku projektu jest szkodliwe dla kreatywności
+-   Powoduje to brak jasności i wzmagającego się stresu
+-   Zdominowanie dyskusji przez
+    -   egoizm
+    -   politykowanie
+    -   ukryte cele
+    -   najabrdziej agresywni werbalnie przejmują kontrole
+-   jeśli będziesz probówał wpaść na dobry pomysł
+    -   zanim definujesz swój cel
+    -   wykreujesz wizje
+    -   zgormadzisz całą masę złych pomysłów
+    -   doświadczysz tzw. "kreatywnej obstrukcji"
