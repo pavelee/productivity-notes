@@ -53,13 +53,24 @@
         -   [Zresetuj oczekiwania innych](#zresetuj-oczekiwania-innych)
         -   [Wyłącz telefon](#wyłącz-telefon)
 -   [Prokrastynacja](#prokrastynacja)
--   [Metoda GTD](#metoda-gtd) - [Planowanie projektu](#planowanie-projektu) - [Planowanie Naturalne](#planowanie-naturalne)
+-   [Metoda GTP](#metoda-gtp)
+    -   [Zbieranie tematów](#zbieranie-tematów)
+    -   [Burze mózgów](#burze-mózgów)
+    -   [Wyodrębnianie zadań](#wyodrębnianie-zadań)
+    -   [Szacowanie zadań](#szacowanie-zadań)
+    -   [Planowanie](#planowanie)
+    -   [Wykonywanie zadań](#wykonywanie-zadań)
+    -   [Indywidualna retrospektywa](#indywidualna-retrospektywa)
+-   [Metoda GTD](#metoda-gtd)
+    -   [Planowanie projektu](#planowanie-projektu)
+    -   [Planowanie Naturalne](#planowanie-naturalne)
 
 ## Źródło
 
 -   "Nawyk nieodwlekania. Proste sposoby pokonania prokrastynacji" - S.J. Scott
 -   "Sztuka błyskawicznej koncentracji. Mistrzostwo w zarządzaniu uwagą" - Damon Zahariades
 -   "Getting Things Done, czyli sztuka bezstresowej efektywności. Wydanie II" - David Allen
+-   "Getting Things Programmed. Droga do efektywności" - Michał Bartyzel
 
 ## Koncentracja
 
@@ -805,6 +816,22 @@
 ## Prokrastynacja
 
 ### Najczęstsze przyczyny prokrastynacji
+
+## Metoda GTP
+
+### Zbieranie tematów
+
+### Burze mózgów
+
+### Wyodrębnianie zadań
+
+### Szacowanie zadań
+
+### Planowanie
+
+### Wykonywanie zadań
+
+### Indywidualna retrospektywa
 
 ## Metoda GTD
 
