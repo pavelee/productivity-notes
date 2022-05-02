@@ -778,6 +778,27 @@
 
 #### Zresetuj oczekiwania innych
 
+-   nikt inne nie zadba tak dobrze o Twoje skupienie jak Ty sam!
+    -   nikt inny nie wezmie za to odpowiedzialności
+-   To od Ciebie zależy temperowanie oczekiwań innych ludzi
+-   Stwórz swoje zasady dostępności względem innych osób
+-   Określ najczęstsze okoliczności zakłóceń Twojej pracy
+    -   Inny pracownicy którzy wpadają do biura pogadać lub poprosić o pomoc
+    -   Osoby które odwiedzają Cie bez zapowiedzi
+    -   Rodzina i przyjacele dzwonią do Ciebie licząc że będą mogli się wygadać
+    -   Współpracownicy wysyłają Ci maile i oczekują na odpowiedź w ciągu godziny
+    -   Znajomi zasypują Cie SMS-ami i oczekuja odpowiedzi w ciągu kilku minut
+-   Zwykle tylko kilka osób z Twojego otoczenia ma największy wpływ na zakłócanie Twojej koncentracji
+    -   Sporządź listę 5 najbardziej aktywnych przeszkadzacy
+        -   Pomyśl kto regularnie wpada do Twojego biura aby pogadać
+        -   Kto z rodziny szybko się irytuje jak nie odbierasz telefonu
+        -   Który przyjaciel wysyła Cie dziesiątki wiadomości dziennie i oczekuję szybkiej odpowiedzi
+        -   Czy masz sąsiada który wpada niezapowiedzany tylko dlatego że jesteś w domu?
+-   Poszukaj sposobu aby zresetować oczekiwania powyższych osób
+    -   Idealnie jest szukać dyplomatycznych rozwiązań, wytłumaczenia dlaczego istotne jest dla Ciebie własny czas na pracę
+        -   "Idealnie pracuję mi się przed południem, czy możemy wrócić do rozmowy po 13?"
+-   Nie obawiaj się resetowania oczekiwań innych ludzi, pamiętaj że oni sami tego nie zrobią
+
 ## Prokrastynacja
 
 ### Najczęstsze przyczyny prokrastynacji
