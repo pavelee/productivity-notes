@@ -53,6 +53,15 @@
         -   [Zresetuj oczekiwania innych](#zresetuj-oczekiwania-innych)
         -   [Wyłącz telefon](#wyłącz-telefon)
 -   [Prokrastynacja](#prokrastynacja)
+    -   [Najczęstsze przyczyny prokrastynacji](#najczęstsze-przyczyny-prokrastynacji)
+        -   [Jesteś perfekcjonistą](#jesteś-perfekcjonistą)
+        -   [Boisz się nieznanego](#boisz-się-nieznanego)
+        -   [Obiecujesz sobie że zrobisz to później](#obiecujesz-sobie-że-zrobisz-to-później)
+        -   [Skupiasz się na prostych zadaniach](#skupiasz-się-na-prostych-zadaniach)
+        -   [Cierpisz na brak motywacji](#cierpisz-na-brak-motywacji)
+        -   [Nie wiesz jak zacząć](#nie-wiesz-jak-zacząć)
+        -   [Łatwo się dekoncentrujesz](#łatwo-się-dekoncentrujesz)
+        -   [Brakuje Ci czasu](#brakuje-ci-czasu)
 -   [Metoda GTP](#metoda-gtp)
     -   [Zbieranie tematów](#zbieranie-tematów)
     -   [Burze mózgów](#burze-mózgów)
@@ -816,6 +825,22 @@
 ## Prokrastynacja
 
 ### Najczęstsze przyczyny prokrastynacji
+
+#### Jesteś perfekcjonistą
+
+#### Boisz się nieznanego
+
+#### Obiecujesz sobie że zrobisz to później
+
+#### Skupiasz się na prostych zadaniach
+
+#### Cierpisz na brak motywacji
+
+#### Nie wiesz jak zacząć
+
+#### Łatwo się dekoncentrujesz
+
+#### Brakuje Ci czasu
 
 ## Metoda GTP
 
