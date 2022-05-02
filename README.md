@@ -51,6 +51,7 @@
         -   [Odetnij sieć](#odetnij-sieć)
         -   [Ogranicz czas, który spędzasz na spotkaniach](#ogranicz-czas-który-spędzasz-na-spotkaniach)
         -   [Zresetuj oczekiwania innych](#zresetuj-oczekiwania-innych)
+        -   [Wyłącz telefon](#wyłącz-telefon)
 -   [Prokrastynacja](#prokrastynacja)
 -   [Metoda GTD](#metoda-gtd) - [Planowanie projektu](#planowanie-projektu) - [Planowanie Naturalne](#planowanie-naturalne)
 
@@ -798,6 +799,8 @@
     -   Idealnie jest szukać dyplomatycznych rozwiązań, wytłumaczenia dlaczego istotne jest dla Ciebie własny czas na pracę
         -   "Idealnie pracuję mi się przed południem, czy możemy wrócić do rozmowy po 13?"
 -   Nie obawiaj się resetowania oczekiwań innych ludzi, pamiętaj że oni sami tego nie zrobią
+
+#### Wyłącz telefon
 
 ## Prokrastynacja
 
