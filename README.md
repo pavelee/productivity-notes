@@ -823,10 +823,10 @@
 
 #### Wyłącz telefon
 
- -  Telefon obok nas jest już potencjalnym rozpraszaczem, wystarczą tylko dźwieki powiadomień aby nas odciągnąć od zadania
+-   Telefon obok nas jest już potencjalnym rozpraszaczem, wystarczą tylko dźwieki powiadomień aby nas odciągnąć od zadania
     -   SMS-y, powiadomienia nie związane z wykonywaną pracą są zabójcze dla koncentracji
 -   Dźwięk powiadomienia otwiera nam pętlę w głowie aby sprawdzić co przyszło do nas
--   Zalecane jest wyłączonie, wyciszenie, tryb skupienia podczas pracy 
+-   Zalecane jest wyłączonie, wyciszenie, tryb skupienia podczas pracy
 -   Jeśli masz problem z uzależnieniem od telefonu
     -   Skorzystaj z aplikacji do blokowania danych aplikacji w konkretnym czasie lub nawet połaczenia z internetem
         -   Forest
@@ -844,6 +844,32 @@
 ### Najczęstsze przyczyny prokrastynacji
 
 #### Jesteś perfekcjonistą
+
+-   Łatwo o prokrastynacje jeśli martwisz się tym że popełnisz błędy, które obnażą Twoje niedostatki
+-   Lęk przed potknięciami jest realny i potrawi zmuszać ludzi do odkładania zobowiązań na inny dzień
+-   Wszystko zlaży od naszej postawy
+    -   Nastawienie na stałość
+        -   Przekonanie że nasze umiejętności są nam dane raz na zawsze
+        -   Skupiają się na aktualnym poziomie talentu i umiejętności, zakładająć że nie można ich już rozwinąć
+            -   Dysponują tylko tym z czym się urodzili
+        -   Wierzą że jeśli ktoś jest utalentowany, to nie musi się wysilać
+            -   talent jest czymś naturalnym
+        -   ogranicza to potencjał rozwoju i wprowadzania korzystnych zmian
+    -   Nastawienie na rozwój
+        -   Wiara w to że umiejętności da się ulepszać i rozwijać, dzięki ciężkiej pracy
+        -   Inteligencja i talenty to tylko punkt wyjścia
+            -   rodzimy się z jakimiś talentami, ale to nie ogranicza tego co możemy osiągnąć
+        -   Chęć do uczenia się i pokonywania problemów z myślą o osiągnięciu sukcesu
+    -   Nastawienie jest wytłumaczeniem wybitnych osiągnieć
+        -   Pozytywnie wpyływanie na swoje i innych życie
+    -   Ludzie którzy prokrastynują z powodu prefekcjonizmu są zwykle nastawieni na stałość
+        -   Unikają pewnych zadań bo boją się popełnienia błędu
+            -   Zrobienia czegoś co nie będzie wyglądało idealnie
+        -   Wychodzą z założenia że jeśli zadanie wymaga innych umiejętności to porażka jest pewna
+            -   Co za tym idzie, odłożyć to na kiedy indziej
+    -   Mylnie twierdzimy że prefekcjonizm jest pozytywny, w dłużej perspektywnie negatywnie wpływa na Twój potencjał
+    -   Postawienie sobie bardzo wysoko poprzeczki stawia nas przed nierealnym zadaniem do wykonania
+        -   Co prowadzi do bierności
 
 #### Boisz się nieznanego
 
