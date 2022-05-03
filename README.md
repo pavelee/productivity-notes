@@ -867,9 +867,9 @@
             -   Zrobienia czegoś co nie będzie wyglądało idealnie
         -   Wychodzą z założenia że jeśli zadanie wymaga innych umiejętności to porażka jest pewna
             -   Co za tym idzie, odłożyć to na kiedy indziej
-    -   Mylnie twierdzimy że prefekcjonizm jest pozytywny, w dłużej perspektywnie negatywnie wpływa na Twój potencjał
-    -   Postawienie sobie bardzo wysoko poprzeczki stawia nas przed nierealnym zadaniem do wykonania
-        -   Co prowadzi do bierności
+-   Mylnie twierdzimy że prefekcjonizm jest pozytywny, w dłużej perspektywnie negatywnie wpływa na Twój potencjał
+-   Postawienie sobie bardzo wysoko poprzeczki stawia nas przed nierealnym zadaniem do wykonania
+    -   Co prowadzi do bierności
 
 #### Boisz się nieznanego
 
