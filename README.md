@@ -822,6 +822,20 @@
 
 #### Wyłącz telefon
 
+ -  Telefon obok nas jest już potencjalnym rozpraszaczem, wystarczą tylko dźwieki powiadomień aby nas odciągnąć od zadania
+    -   SMS-y, powiadomienia nie związane z wykonywaną pracą są zabójcze dla koncentracji
+-   Dźwięk powiadomienia otwiera nam pętlę w głowie aby sprawdzić co przyszło do nas
+-   Zalecane jest wyłączonie, wyciszenie, tryb skupienia podczas pracy 
+-   Jeśli masz problem z uzależnieniem od telefonu
+    -   Skorzystaj z aplikacji do blokowania danych aplikacji w konkretnym czasie lub nawet połaczenia z internetem
+        -   Forest
+        -   Break Free
+        -   Off time
+        -   App detox
+        -   Moment
+    -   Najprostszym rozwiązaniem jest wyłączenie telefonu podczas pracy
+        -   To też pomaga zresetować oczekiwania innych ludzi na naszą reakcje na ich wiadomości
+
 ## Prokrastynacja
 
 ### Najczęstsze przyczyny prokrastynacji
