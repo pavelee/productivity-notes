@@ -52,6 +52,7 @@
         -   [Ogranicz czas, który spędzasz na spotkaniach](#ogranicz-czas-który-spędzasz-na-spotkaniach)
         -   [Zresetuj oczekiwania innych](#zresetuj-oczekiwania-innych)
         -   [Wyłącz telefon](#wyłącz-telefon)
+        -   [Zarządzanie poziomami energii](#zarządzanie-poziomami-energii)
 -   [Prokrastynacja](#prokrastynacja)
     -   [Najczęstsze przyczyny prokrastynacji](#najczęstsze-przyczyny-prokrastynacji)
         -   [Jesteś perfekcjonistą](#jesteś-perfekcjonistą)
@@ -835,6 +836,8 @@
         -   Moment
     -   Najprostszym rozwiązaniem jest wyłączenie telefonu podczas pracy
         -   To też pomaga zresetować oczekiwania innych ludzi na naszą reakcje na ich wiadomości
+
+#### Zarządzanie poziomami energii
 
 ## Prokrastynacja
 
