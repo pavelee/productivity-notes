@@ -53,6 +53,7 @@
         -   [Zresetuj oczekiwania innych](#zresetuj-oczekiwania-innych)
         -   [Wyłącz telefon](#wyłącz-telefon)
         -   [Zarządzanie poziomami energii](#zarządzanie-poziomami-energii)
+        -   [Medytacja](#medytacja)
 -   [Prokrastynacja](#prokrastynacja)
     -   [Najczęstsze przyczyny prokrastynacji](#najczęstsze-przyczyny-prokrastynacji)
         -   [Jesteś perfekcjonistą](#jesteś-perfekcjonistą)
@@ -851,6 +852,8 @@
     -   w tych okresach zaplanuj trudniejsze zadania
 -   istotne jest aby miec świadomość że nie jestes wstanie utrzymać wysokiego poziomu energii przez cały dzień
     -   musimy się adaptować i wykorzytać dobre pory na pracę!
+
+#### Medytacja
 
 ## Prokrastynacja
 
