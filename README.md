@@ -839,6 +839,19 @@
 
 #### Zarządzanie poziomami energii
 
+-   poziom energii oscyluje w ciągu dnia
+-   kiedy mamy więcej energii mamy lepsze zdolności koncentracji
+-   istotne jest zidentyfikowanie ram czasowych z dużą ilością energii
+    -   zapisz, zapamiętaj w jakich porach masz najwięcej energii
+    -   jeśli po śniadaniu dobrze Ci się pracowało, zapisz godzinę i co jadłeś, poszedłes na spacer itp.
+    -   najlepiej śledzić swój stan energii przez okres około 2 tygodnii
+    -   czym lepiej zanotujesz tym szybciej zauważysz pewne prawidłowości
+-   Po określeniu swoich wysokoenergetycznych ram czasowych, dostosuj swój harmonogram pracy
+    -   pracowanie z samego rana, wieczorem, po kawie itp.
+    -   w tych okresach zaplanuj trudniejsze zadania
+-   istotne jest aby miec świadomość że nie jestes wstanie utrzymać wysokiego poziomu energii przez cały dzień
+    -   musimy się adaptować i wykorzytać dobre pory na pracę!
+
 ## Prokrastynacja
 
 ### Najczęstsze przyczyny prokrastynacji
