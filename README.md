@@ -873,7 +873,7 @@
     -   Wyobraź sobie mentalną przegrodę od wszystkich myśli
     -   Możesz to wykonywać wszędzie
     -   Możesz wykonyować to z otwarymi oczami
-        -    W takim przypadku skup się na jakims obiekcie w Twoim otoczeniu
+        -   W takim przypadku skup się na jakims obiekcie w Twoim otoczeniu
     -   Jest to świetna forma medytacji na początek
 
 #### Ogranicz dostęp do e-maili
@@ -916,7 +916,7 @@
     -   sprawdzić plamę na skórze, czy to nie jest rak skóry
 -   ignorowanie jakieś sprawy z nadzieją że rozwiąże się sama, jeszcze pogarsza sytuacje
 -   Nasze fałszywe przyknania zostają w pamięci i mają wpływ na nasze myślenie, nawet jeśli wiemy że opiera się na błędnych przesłankach
-    -   Efekt pogłębia się jeśli przekonania wpisują się w nasze poglądy, chcemy w to wierzyć 
+    -   Efekt pogłębia się jeśli przekonania wpisują się w nasze poglądy, chcemy w to wierzyć
     -   to prowadzi do rozpowszechniania mylnych informacji wsród innych
     -   "W mojej rodzinie nigdy nie było raka, więc pewnie jestem zdrowy!"
     -   "ten pieprzyk sam zniknie"
@@ -937,9 +937,47 @@
     -   Czy boje się dalszego postępowania czy jego efektów?
     -   Czy potrawie stawić czoła konsekwencją?
     -   Czy staram się zabezpieczyć przed konkretnymi konsekwencjami?
-    -   Czy naprawdę się boje, czy może mi powiedziano że to straszne? 
+    -   Czy naprawdę się boje, czy może mi powiedziano że to straszne?
 
 #### Obiecujesz sobie że zrobisz to później
+
+-   Jest to typowa wymówka, możesz się zajać sprawą w bliżej nie określonym czasie
+    -   "Idealny dzień" który sobie wyobrażasz...
+-   W wyobrażonej przyszłości
+    -   mamy nieskończone zasoby energii
+    -   zdrowo się odżywiamy
+    -   regualarnie ćwiczimy i ciężko pracujemy
+-   Natomiast prawdziwy przyszły Ty
+    -   zmęczony
+    -   zniechęcony
+    -   zobowiazania
+    -   charpka na ciasto
+-   Rozdźwięk pomiedzy gorącą a zminą empatią
+    -   efekt polegający na tym że ludzie nie doceniają wpływu instykyowynch popędów na nastawienie, zachowanie i preferencje
+    -   nasz sposób myślenia zależy od stanu umysłu
+        -   jeśli się wściekasz, ciężko będzie Ci sobie wyobraźić że jesteś spokojny
+        -   jeśli jesteś głodny, ciężko będzie Ci wyobraźić sobie uczucie sytości
+    -   Lekarz mógł mieć podobny wypadek i stwierdzi że pacjent przesadza w kwestii opisywanego bólu
+    -   Przełożony któremu też umarł ktoś bliski, potrawił szybko wrócić do pracy
+    -   Wcześniejsze doświadczenia i uczucia, mogą mieć wpływ na podejmowane decyzje
+-   Niespójność czasowa
+    -   preferencje osoby podejmującej decyzje zmieniają się z upływem czasu i stają się niekonsekwentne
+    -   W podejmowanie dezycji wchodzą różne wersje nas samych
+    -   Przykład
+        -   Studenci dzień przed egzaminem będa bardziej chętni do zapłacenie za odroczenie egzaminu
+        -   Studenci na kilka miesięcy przed egzaminiem nie będą chętni zapłacić
+        -   Wybór jest ten sam, ale w innym czasie
+            -   Niespójność czasowa decyzji!
+    -   Posiadamy przyszła i traźniejszą postawę
+        -   Przyszły Ty
+            -   Robić to co da największe korzyści w dłuższej perspektywie
+        -   Traźniejszy Ty
+            -   Bardziej docenia to co daje natychmiastowe korzyści
+    -   Zbytnio martwimy się traźniejszą sobą, zamiast patrzeć jak aktualne działania wpłyną negatywnie na przyszłego siebie
+        -   Łatwo olwać długoterminowe konsekwencje, bo te konsekwencje są rozciągnięte w czasie na bliżej nie określony czas
+    -   Traźniejszy Ty i przyszły Ty jesteście w nieustanny konflikcie
+        -   Przyszły Ty ma wiele planów ale wymaga pracy traźniejszego Ty
+        -   Traźniejszy Ty czesto daje się skusić natychmiastowym gratyfikacji z doraźnej nagrody
 
 #### Skupiasz się na prostych zadaniach
 
