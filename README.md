@@ -889,6 +889,33 @@
 
 #### Boisz się nieznanego
 
+-   Czasami boimy się podjąć działania aby nie dowiedzieć się o czymś o czym nie chcemy wiedzieć
+    -   sprawdzić plamę na skórze, czy to nie jest rak skóry
+-   ignorowanie jakieś sprawy z nadzieją że rozwiąże się sama, jeszcze pogarsza sytuacje
+-   Nasze fałszywe przyknania zostają w pamięci i mają wpływ na nasze myślenie, nawet jeśli wiemy że opiera się na błędnych przesłankach
+    -   Efekt pogłębia się jeśli przekonania wpisują się w nasze poglądy, chcemy w to wierzyć 
+    -   to prowadzi do rozpowszechniania mylnych informacji wsród innych
+    -   "W mojej rodzinie nigdy nie było raka, więc pewnie jestem zdrowy!"
+    -   "ten pieprzyk sam zniknie"
+    -   próba przedstawienia takiej osobie prawdy, może mieć skutek odwrotny od zamierzonego i tylko umocnić w fałszywych sądach
+    -   w przypadku zdrowia, może to prowadzić do pogroszenia sprawy, a nawet śmierci
+        -   odkładanie na później, bo chcemy wierzyć że wszystko jest w porządku
+-   Najcześciej po prostu nie chcemy poznać prawdy
+    -   wiedza to potęga, pozwala nam odpowiednio wcześnie zareagować
+    -   jeśli nawet to złe wieści, to czym wcześniej się dowiesz, będziesz miał więcej czasu aby uniknąć pogorszenia sytuacji
+-   Zadaj sobie pytania
+    -   Czego się boje?
+    -   Co najgorszego może się przydażyć?
+    -   Co może się wydarzyć jeśli zbagatelizuje sytuacje?
+    -   Dlaczego odkładam to na później?
+    -   Czy odkładanie tego na później ma jakie kolwiek dobre strony?
+    -   Jak często ludzie umierają z powodu lekceważenia tego typu problemu?
+    -   Czy staram się wmówić sobie nieprawdę?
+    -   Czy boje się dalszego postępowania czy jego efektów?
+    -   Czy potrawie stawić czoła konsekwencją?
+    -   Czy staram się zabezpieczyć przed konkretnymi konsekwencjami?
+    -   Czy naprawdę się boje, czy może mi powiedziano że to straszne? 
+
 #### Obiecujesz sobie że zrobisz to później
 
 #### Skupiasz się na prostych zadaniach
