@@ -973,11 +973,11 @@
             -   Robić to co da największe korzyści w dłuższej perspektywie
         -   Traźniejszy Ty
             -   Bardziej docenia to co daje natychmiastowe korzyści
-    -   Zbytnio martwimy się traźniejszą sobą, zamiast patrzeć jak aktualne działania wpłyną negatywnie na przyszłego siebie
-        -   Łatwo olwać długoterminowe konsekwencje, bo te konsekwencje są rozciągnięte w czasie na bliżej nie określony czas
-    -   Traźniejszy Ty i przyszły Ty jesteście w nieustanny konflikcie
-        -   Przyszły Ty ma wiele planów ale wymaga pracy traźniejszego Ty
-        -   Traźniejszy Ty czesto daje się skusić natychmiastowym gratyfikacji z doraźnej nagrody
+-   Zbytnio martwimy się traźniejszą sobą, zamiast patrzeć jak aktualne działania wpłyną negatywnie na przyszłego siebie
+    -   Łatwo olwać długoterminowe konsekwencje, bo te konsekwencje są rozciągnięte w czasie na bliżej nie określony czas
+-   Traźniejszy Ty i przyszły Ty jesteście w nieustanny konflikcie
+    -   Przyszły Ty ma wiele planów ale wymaga pracy traźniejszego Ty
+    -   Traźniejszy Ty czesto daje się skusić natychmiastowym gratyfikacji z doraźnej nagrody
 
 #### Skupiasz się na prostych zadaniach
 
