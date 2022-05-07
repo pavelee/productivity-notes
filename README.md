@@ -54,6 +54,7 @@
         -   [Wyłącz telefon](#wyłącz-telefon)
         -   [Zarządzanie poziomami energii](#zarządzanie-poziomami-energii)
         -   [Medytacja](#medytacja)
+        -   [Ogranicz dostęp do e-maili](#ogranicz-dostęp-do-e-maili)
 -   [Prokrastynacja](#prokrastynacja)
     -   [Najczęstsze przyczyny prokrastynacji](#najczęstsze-przyczyny-prokrastynacji)
         -   [Jesteś perfekcjonistą](#jesteś-perfekcjonistą)
@@ -874,6 +875,8 @@
     -   Możesz wykonyować to z otwarymi oczami
         -    W takim przypadku skup się na jakims obiekcie w Twoim otoczeniu
     -   Jest to świetna forma medytacji na początek
+
+#### Ogranicz dostęp do e-maili
 
 ## Prokrastynacja
 
