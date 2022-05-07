@@ -855,6 +855,26 @@
 
 #### Medytacja
 
+-   Medytacja to sposób na odbudowanie wewnętrznego spokoju
+    -   walka ze stresem
+    -   odsuwanie myśli które Cie obciążają
+-   Uświadomienie sobie swojego jestestwa, tu i teraz
+-   Medytacja ma pozytywny wpływ na zdolności koncentracji
+-   Medytacja może przybierać wiele form
+    -   Wbrew publicznej opinii, nie trzeba być mnichem aby medytować
+    -   Możesz to robić w dowolnym miejscu, tam gdzie jest chwila ciszy i spokoju
+    -   Niektóre ćwiczenia trwają dosłownie kilka minut
+-   Metydacja uważności
+    -   Skupienie się na oddychaniu
+    -   Ustaw minutnik na 3 minuty i zamknij oczy
+    -   Wykonuj głębokie oddechy
+        -   Skup się na każdym oddechu i wydechu
+    -   Wyobraź sobie mentalną przegrodę od wszystkich myśli
+    -   Możesz to wykonywać wszędzie
+    -   Możesz wykonyować to z otwarymi oczami
+        -    W takim przypadku skup się na jakims obiekcie w Twoim otoczeniu
+    -   Jest to świetna forma medytacji na początek
+
 ## Prokrastynacja
 
 ### Najczęstsze przyczyny prokrastynacji
