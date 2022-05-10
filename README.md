@@ -55,6 +55,7 @@
         -   [Zarządzanie poziomami energii](#zarządzanie-poziomami-energii)
         -   [Medytacja](#medytacja)
         -   [Ogranicz dostęp do e-maili](#ogranicz-dostęp-do-e-maili)
+        -   [Nie broń się przed codzienną rutyną](#nie-broń-się-przed-codzienną-rutyną)
 -   [Prokrastynacja](#prokrastynacja)
     -   [Najczęstsze przyczyny prokrastynacji](#najczęstsze-przyczyny-prokrastynacji)
         -   [Jesteś perfekcjonistą](#jesteś-perfekcjonistą)
@@ -901,7 +902,9 @@
         -   zresetuj oczekiwania innych, tak aby wiedzieli ze jestes dostepny w konkretnych godzinach
 -   W momencie jak będziesz się łamać aby sprawdzić pocztę poza godzinami, zadaj sobie pytanie
     -   "Co się najgorszego możę stać jeśli nie sprawdzę poczty przez pare godzin?"
-    
+
+#### Nie broń się przed codzienną rutyną
+
 ## Prokrastynacja
 
 ### Najczęstsze przyczyny prokrastynacji
