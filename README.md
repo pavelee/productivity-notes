@@ -1008,6 +1008,21 @@
 
 #### Skupiasz się na prostych zadaniach
 
+-   Często zajmujesz się zapychaczami
+    -   To są czynności łatwe i szybkie do wykonania
+        -   sprawdzanie emaili
+        -   rozmowa z współpracownikiem
+        -   lżeszje prace biurowe
+-   Mimo że daje to wrażenie zajęcia, to jest to twórcza forma prokrastynacji
+    -   dropbne sprawy są szybkie do załatwienia i dają poczucie satysfkacji
+        -   natychmiastowa gratyfikacja 
+-   Im coś jest trudniejsze do wykonania i zabiera więcej czasu, tym ciężej się za to zabrać
+    -   Jeśli jesteś świadomy braku łatwiego dopainowego haju, to łatwo do odkładamy na później bo nagroda wydaje się zbyt odległa
+-   Jest to powiązane z koncepcją "present bias", czyli nastawienia na traźniejszość
+    -   nadawnie priorytetu bardziej bezpośrednim korzyściom
+-   Nasze emocje biorą górę w momencie wyboru natychmiastowej nagrody a długoterminowej inwestycji
+    -   Nasze emocje ciągną nas do szybkiej przyjemności, bez myślenia o konsekwencjach
+
 #### Cierpisz na brak motywacji
 
 #### Nie wiesz jak zacząć
