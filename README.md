@@ -878,6 +878,30 @@
 
 #### Ogranicz dostęp do e-maili
 
+-   Przeglądanie wiadomości zajmuję znacznie więcej czasu, niż to planujemy
+-   Otwarta poczta jest ropraszająca
+    -   Jeżeli coś przyjdzie to nasz mózg chce abyśmy sprawdzili co to jest
+    -   Wywołuje lęk przed przeoczeniem jakiegoś istotnego wydarzenia "Fear of missing out"
+        -   To samo dotyczny naszych telefonów i powiadomień
+-   Zalecane jest odłączenie się od poczty przez większość naszego dnia
+    -   Nie zostawiaj otwartej przeglądarki na gmail itp.
+    -   Nie sprawdzaj poczty pod wpływem impusu, jak tylko najdzie Cie taka ochota
+    -   Nie sprawdzaj tylko aby zobaczyć czy dostałeś odpowiedź na maila wysłanego wcześniej tego samego dnia
+    -   Sprawdzaj pocztę co najwyżej dwa razy dziennie w wybranych przez siebie godzinach
+        -   Najlepiej tak aby dopasować się do tego momentu ze swoją energią (niski poziom energii)
+            -   np. o 12 oraz 17
+        -   Szczególnie unikanie przeglądania porannego, łatwo wpaść w pułapkę zbyt długiego przeglądania
+-   Warto szukać własnych godzin, można wykorzystać trzy etapowy proces
+    -   Przejrzyj swój harmonogram
+        -   Zadaj sobie pytanie kiedy realnie potrzebujesz sprawdzić pocztę
+        -   Uświadom sobie że nie monitorowanie skrzynki przez pare godzin to nie katastrofa
+    -   Ustal konkretne godziny sprawdzania poczty
+        -   Wybieraj czas kiedy Twój poziom energii jest stosunkowo niski
+    -   Poinforumuj innych o swoich regułach sprawdzania poczty
+        -   zresetuj oczekiwania innych, tak aby wiedzieli ze jestes dostepny w konkretnych godzinach
+-   W momencie jak będziesz się łamać aby sprawdzić pocztę poza godzinami, zadaj sobie pytanie
+    -   "Co się najgorszego możę stać jeśli nie sprawdzę poczty przez pare godzin?"
+    
 ## Prokrastynacja
 
 ### Najczęstsze przyczyny prokrastynacji
