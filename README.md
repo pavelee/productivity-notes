@@ -905,6 +905,18 @@
 
 #### Nie broń się przed codzienną rutyną
 
+-   Dobrze nam służy rutyna
+    -   Nasz umysł lubi przewidywalność
+    -   Potrzeba mniej energii na reakcje na nieznane
+-   Najbardziej produktywni ludzie przestrzegają rutyny opartej na przyzwyczajeniach
+    -   Dzięki temu mają więcej zasobów poznawczych na istotne dla nich zadania
+-   Na przykład wykonujemy poranną rutynę sprawnie, bez potrzeby spalania nadmiernej energii
+    -   podświadomie skupiasz się na kolejnych zadaniach
+-   rytynę można wykorzystać do "turbo podświadomości"
+    -   Wykonywnaie tych samych obowiązków w tej samej kolejności
+    -   Wykonujesz swoją pracę w automatyczny sposób!
+    -   Łączenie czasu w bloki, powtarzalne każdego dnia
+
 ## Prokrastynacja
 
 ### Najczęstsze przyczyny prokrastynacji
