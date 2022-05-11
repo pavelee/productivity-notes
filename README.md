@@ -1040,6 +1040,18 @@
 
 #### Cierpisz na brak motywacji
 
+-   Czasami myślimy że "Życie zawsze przeskadza w zrobieniu tego co należy"
+-   Brak motywacji może mieć różne podłoże
+    -   zmęczenie
+    -   stres
+    -   inne ważne sprawy
+    -   nie oczekiwane kryzysy
+    -   pesymizm
+    -   brak pewnoście siebie
+    -   nie sprecyzowane cele
+-   Ludziom brakuje motywacji kiedy efekt pracy nie przedstawia dla nich większej wartości
+    -   Jeśli potrawisz powiązać zadanie ze swoimi zainteresowaniami, celami to zwiększasz motywacje do zajęcia się tym zadaniem
+
 #### Nie wiesz jak zacząć
 
 #### Łatwo się dekoncentrujesz
