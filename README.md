@@ -56,6 +56,7 @@
         -   [Medytacja](#medytacja)
         -   [Ogranicz dostęp do e-maili](#ogranicz-dostęp-do-e-maili)
         -   [Nie broń się przed codzienną rutyną](#nie-broń-się-przed-codzienną-rutyną)
+        -   [Przychamuj swojego wewnętrznego perfekcjonistę](#przychamuj-swojego-wewnętrznego-perfekcjonistę)
 -   [Prokrastynacja](#prokrastynacja)
     -   [Najczęstsze przyczyny prokrastynacji](#najczęstsze-przyczyny-prokrastynacji)
         -   [Jesteś perfekcjonistą](#jesteś-perfekcjonistą)
@@ -916,6 +917,8 @@
     -   Wykonywnaie tych samych obowiązków w tej samej kolejności
     -   Wykonujesz swoją pracę w automatyczny sposób!
     -   Łączenie czasu w bloki, powtarzalne każdego dnia
+
+#### Przychamuj swojego wewnętrznego perfekcjonistę
 
 ## Prokrastynacja
 
