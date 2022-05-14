@@ -920,6 +920,9 @@
 
 #### Przychamuj swojego wewnętrznego perfekcjonistę
 
+-   Źródłem zakłóceniem też jesteśmy my sami!
+-   Możemy dosłownie nie być wstanie wykonać zadania jeśli 
+
 ## Prokrastynacja
 
 ### Najczęstsze przyczyny prokrastynacji
