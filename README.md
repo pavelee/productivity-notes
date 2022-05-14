@@ -921,7 +921,15 @@
 #### Przychamuj swojego wewnętrznego perfekcjonistę
 
 -   Źródłem zakłóceniem też jesteśmy my sami!
--   Możemy dosłownie nie być wstanie wykonać zadania jeśli 
+-   Możemy dosłownie nie być wstanie wykonać zadania ponieważ uważamy że nie jest doskonale wykonane
+-   Zakłócamy swoją prace poprzez ciągłe przerywanie i zastanawianie się czy to co zrobiłem przed chwilą jest doskonałe
+    -   Lepiej po prostu wykonać pracę i spojrzeć na możliwy refactoring
+-   Sugestie walki z wewnętrznym prefekcjonistą
+    -   Pracuj w 10 minutowych blokach czasu bez wprowadzania poprawek
+        -   Chcemy nie przerywać pracy, mimo że widzimy jakiś błąd
+    -   Znaleziony błąd czy potrzebne informacje dodaj jako zadanie do wykonania w innym terminie
+        -   Nie przerywaj pracy, sprawdzisz w innym terminie
+    -   Po 10 minutowym bloku czasu popraw błędy i wprowadź niezbędne poprawki
 
 ## Prokrastynacja
 
