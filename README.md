@@ -67,6 +67,7 @@
         -   [Nie wiesz jak zacząć](#nie-wiesz-jak-zacząć)
         -   [Łatwo się dekoncentrujesz](#łatwo-się-dekoncentrujesz)
         -   [Brakuje Ci czasu](#brakuje-ci-czasu)
+        -   [Zmniejsz poziom przyjmowanej kofeiny](#zmniejsz-poziom-przyjmowanej-kofeiny)
 -   [Metoda GTP](#metoda-gtp)
     -   [Zbieranie tematów](#zbieranie-tematów)
     -   [Burze mózgów](#burze-mózgów)
@@ -930,6 +931,8 @@
     -   Znaleziony błąd czy potrzebne informacje dodaj jako zadanie do wykonania w innym terminie
         -   Nie przerywaj pracy, sprawdzisz w innym terminie
     -   Po 10 minutowym bloku czasu popraw błędy i wprowadź niezbędne poprawki
+
+#### Zmniejsz poziom przyjmowanej kofeiny
 
 ## Prokrastynacja
 
