@@ -934,6 +934,12 @@
 
 #### Zmniejsz poziom przyjmowanej kofeiny
 
+-   Sporzywanie rozsądnej ilości kofeiny jest zdrowe
+    -   Zwiększa poziom energii
+    -   Poprawiać pamięć i nastrój
+    -   Zwiększyć czujność na bodźce
+-   Sytuacja odwaraca się 
+
 ## Prokrastynacja
 
 ### Najczęstsze przyczyny prokrastynacji
