@@ -938,7 +938,16 @@
     -   Zwiększa poziom energii
     -   Poprawiać pamięć i nastrój
     -   Zwiększyć czujność na bodźce
--   Sytuacja odwaraca się 
+-   Sytuacja odwaraca się kiedy spożywasz zbyt dużo kofeiny
+    -   dokuczliwa bezsenność
+    -   niepokój
+    -   zwiększony stres
+    -   wysokie tętno
+    -   stany lękowe
+-   Mylimy pobudzenie z kocentracją
+    -   To powoduje że spożywamy zbyt dużo kofeiny
+    -   Ironicznie po spożyciu zbyt dużej ilości kwawy niemożemy się skoncetrować!
+-   Utrzymaj poziom kofeiny poniżej 400mg
 
 ## Prokrastynacja
 
