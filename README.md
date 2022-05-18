@@ -1083,6 +1083,16 @@
 
 #### Nie wiesz jak zacząć
 
+-   Jeśli temat skompikowany to odkładamy to na później
+    -   Nie wiesz od czego zacząć
+-   Sposoby radzenia sobie
+    -   Metoda GTD, rozbicie na mniejsze zadania które można sprawnie wykonać
+        -   Spisz konkretne zdanie które wymagają Twojej uwagi
+        -   Zdecyduj które zadania możesz wykonać od ręki i zrób to!
+        -   Zaplanuj reszte zadań
+        -   Nieustannie przeglądaj podział zadań
+        -   Realizuj zadania jedno po drugim, aż wszystkie zostaną wykonane
+
 #### Łatwo się dekoncentrujesz
 
 #### Brakuje Ci czasu
