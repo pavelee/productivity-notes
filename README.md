@@ -1095,6 +1095,27 @@
 
 #### Łatwo się dekoncentrujesz
 
+-   Każdy z nas jest podatny na wiele czynników rozpraszających
+    -   Telefony
+    -   Inne osoby
+    -   Powiadomienia
+    -   Wrzutki (zadnia)
+-   Uważa się że pracownicy spędzają mniej niż 5 godzin na produktywnej pracy
+    -   przyczny?
+        -   smartphony pracowników
+        -   przesiadywanie w internecie
+        -   pogaduszki w miejscu pracy
+-   sposoby na radzenie sobie
+    -   zorganizowanie środowiska anty-typowe-pokusy
+        -   wstyczki do przeglądarki blokujące rozpraszające Cie strony
+        -   usunuęcie gier/aplikacji ze smartphona
+        -   wyłączenie internetu na moment pracy wymagającej skupienia
+        -   przełączenie smartphona w tryb samolotowy
+        -   noszenie słuchawek z trybem aktywnej redukcji szumu otoczenia
+        -   wyłączenie routera
+        -   zamknięcie drzwi tak aby uniknąć zaczepek od współpracowników / rodziny
+-   drakońskie sposoby są drastyczne ale mogą byc bardzo skuteczne w walce z pokusami
+
 #### Brakuje Ci czasu
 
 ## Metoda GTP
