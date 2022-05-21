@@ -69,6 +69,7 @@
         -   [Brakuje Ci czasu](#brakuje-ci-czasu)
         -   [Zmniejsz poziom przyjmowanej kofeiny](#zmniejsz-poziom-przyjmowanej-kofeiny)
 -   [Metoda GTP](#metoda-gtp)
+    -   [GTP Wstęp](#gtp-wstęp)
     -   [Zbieranie tematów](#zbieranie-tematów)
     -   [Burze mózgów](#burze-mózgów)
     -   [Wyodrębnianie zadań](#wyodrębnianie-zadań)
@@ -1059,7 +1060,7 @@
         -   lżeszje prace biurowe
 -   Mimo że daje to wrażenie zajęcia, to jest to twórcza forma prokrastynacji
     -   dropbne sprawy są szybkie do załatwienia i dają poczucie satysfkacji
-        -   natychmiastowa gratyfikacja 
+        -   natychmiastowa gratyfikacja
 -   Im coś jest trudniejsze do wykonania i zabiera więcej czasu, tym ciężej się za to zabrać
     -   Jeśli jesteś świadomy braku łatwiego dopainowego haju, to łatwo do odkładamy na później bo nagroda wydaje się zbyt odległa
 -   Jest to powiązane z koncepcją "present bias", czyli nastawienia na traźniejszość
@@ -1119,6 +1120,13 @@
 #### Brakuje Ci czasu
 
 ## Metoda GTP
+
+### GTP Wstęp
+
+- Koniecznie do zapamiętania
+    - Aby coś zacząć robić musisz przestać coś robić!
+    - Wielkie problemy biorą się z małych zaniedbań 
+    - Wielkie osiągnięcia biorą się z małych ulepszeń 
 
 ### Zbieranie tematów
 
