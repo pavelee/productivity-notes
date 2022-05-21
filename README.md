@@ -1192,6 +1192,17 @@
     -   "Personal Kanban" - Jim Benson
     -   "Pomodoro Technique Illustrated" - Staffan Noteberg
     -   "Cyfrowa demencja" - Manfred Spitzer
+-   Ćwiczenia
+    -   Przez jeden cały dzień, zanim co kolwiek zrobisz, najpierw zapisz na kartce czynność która masz wykonać. Spisuj absolutnie wszystko! Sprawy ważne i nie istotne!
+        -   Retrospekcja po wykonaniu ćwiczenia
+            -   Oceń które z wykonanych czynności były warte poświęcenia Twojego czasu?
+            -   Z których czynności jest gotów zrezygnować aby zrobić przestrzeń dla nowych technik przestawionych w tej książce?
+    -   W konteście najbliższych 3 dni wybierz sytuacje i osoby w stosunku do których zastosujesz technike 1 minutowej asertywności
+        -   Użyj wyuczonej formułk!
+        -   Retrospekcja
+            -   Jakie były reakcje osób na Twoją asertywność?
+            -   Czy z powodu asertywności spotkały Cie negatywne konsekwencje?
+            -   Jaki związek widziesz pomiędzy Twoją asertywnością a efektywnością oraz pozornym brakiem czasu
 
 
 ### Zbieranie tematów
