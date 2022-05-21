@@ -1123,10 +1123,76 @@
 
 ### GTP Wstęp
 
-- Koniecznie do zapamiętania
-    - Aby coś zacząć robić musisz przestać coś robić!
-    - Wielkie problemy biorą się z małych zaniedbań 
-    - Wielkie osiągnięcia biorą się z małych ulepszeń 
+-   Techniki GTP wymagają lat praktyki
+    -   Przeczytanie książki w weekend to za mało
+    -   Należy wkonywac praktyczne ćwiczenia
+    -   Czas nauki to 1-3 lat
+-   Produktywność, Skuteczność, Efektywność
+    -   Produktywność
+        -   To ilość wytworzonych produktów
+            -   np. ilość naprawionych błędów
+        -   Nie jest to istotny wskaźnik dla programisty
+    -   Skuteczność
+        -   Osiąganie określonych efektów
+        -   Można być produktywnym ale zupełnie nie skutecznym!
+        -   Jest to istotny wskaźnik dla programisty
+    -   Efektywność
+        -   Skuteczność w proporcji do zużytych zasobów
+        -   Wykonanie pracy przy rozsiądnym wykorzystaniu zasobów
+            -   czasu
+            -   ilości wykonanej pracy
+            -   użytych nardzędzi
+        -   Można być skutecznym a jednocześnie nieefektywnym!
+        -   Jest to istotny wskaźnik dla programisty
+-   Istota efektywności programisty
+    -   "Nie mam czasu" to typowa wymówka
+        -   Czasu nie można mieć lub nie mieć. Co za tym idzie nikt nie powinnien narzekać na brak czasu, mamy go po tyle samo!
+        -   problemem są postawione cele i marnowanie czasu na błędny kierunek
+    -   Jeśli nie masz czasu to nie proś o więcej tylko o rewizje celów
+    -   Wielozadaniowość
+        -   Jak zaczynasz kilka zadań jednocześnie to żadne nie jest wykonane, a wszystkie rozgrzebane
+        -   Każda akcja ma swoje konsekwencje
+            -   Jeśli wyślesz maila to dostaniesz odpowiedź
+            -   Jeśli arranżujesz spotkanie to musisz się przygotować
+            -   Jeśli zrobisz poprawkę to jest możliwy błąd
+            -   Jest to przyrost działań i decyzji
+                -   Niestety wykładniczy!
+        -   Wielozadaniowość pojawia się
+            -   kiedy w jednym czasie próboujesz wykonywać dwa zadania
+                -   np. implementujesz funkcjonalność i czytasz RSS
+            -   kiedy przestajesz wykonywac zadanie na nieokreślonym etapie i zaczynasz wykonywać następne, czyli rozgrzebywanie zadań
+            -   Walka z wielozadaniowością to umiejętność dzielenia zadań na takie częście że po wykonaniu możesz zapomnieć o temacie
+    -   "Żeby coś zacząć robić, trzeba coś przestać robić"
+        -   Zwykle szukamy kolejnych praktyk aby poprawić efektywność
+            -   Jest to błędne, najpierw musimy zaczać szukać z czego można zrezygnować
+            -   Umiejętność rezygnowania jest ważniejsza i trudnijesza od umiejętności osiągania celów
+    -   "Wielkie problemy biorą się z niewielkich zaniedbań"
+        -   Różne "obejścia" wydaja się niewinne, niezauważysz konsekwencji następnego dnia
+        -   Problem jest kiedy "obejścia" stają się nawykiem i insipracją dla innych programistów
+        -   Potem okazuje się że potrzebna jest refakturyzacja
+        -   Każde twoje działanie pozostaje na stałe w jakimś logicznym ciągu przyczyn i skutków
+            -   skutki kumulują się w czasie mając skutek negatywny lub pozytywny
+    -   Co za tym idzie "Wielkie osiągniecia biorą się z małych ulepszeń"
+    -   Upływ czasu jest subiektywny
+        -   Wrażenie że czas upływa jednym razem szybko a innym wolno
+            -   Podczas rozmowy z piękną kobietą, godzina mija jak 5 minut
+            -   Podczas siedzenia na rozażonym piecu 5 minut wlecze się jak godzina
+        -   Będąc rozkojarzonym możemy stracić poczucie czasu i marnotrawić ten zasób
+        -   Niezwykle istotnę są techniki koncentracji!
+    -   1 minutowy kurs asertywności dla programistów
+        -   Musimy nauczyć się mówić nie!
+        -   Jak ktoś na nas zrzuca zadanie to dostaje dwie rzeczy to: zadanie do wykonanie i decyzje o priorytetach
+        -   Nie zgadzaj się na decyzje o priorytetach!
+        -   Naucz się zdania na pamięć!
+            -   "Rozumiem że zależy abym wykonał X w tej chwili zajmuję się Y i mam zaplanowane (Z...) z czego mam zrezygnować lub co przesunąć abym wykonał to o co mnie prosisz "
+        -   Powyższa technika sprawdzi w momencie kiedy nie decydujesz o prioytetach (praca w zespole w organizacji)
+-   Polecane książki
+    -   "7 nawyków skutecznego działania" - Stephen R. Covey
+    -   "Getting Things Done, czyli sztuka bezstresowej efektywności. Wydanie II" - David Allen
+    -   "Personal Kanban" - Jim Benson
+    -   "Pomodoro Technique Illustrated" - Staffan Noteberg
+    -   "Cyfrowa demencja" - Manfred Spitzer
+
 
 ### Zbieranie tematów
 
