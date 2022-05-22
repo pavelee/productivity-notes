@@ -1119,6 +1119,31 @@
 
 #### Brakuje Ci czasu
 
+-   To jest częsta wymówka prowadząca do prokrastynacji
+-   Życie rzuciło Ci kłody pod nogi i zmieniło harmonogram
+    -   zostało Ci tylko trochę czasu na pierwotnie planowane zadania
+    -   Istotne jest to że twierdzimy że czasu jest zbyt mało na wykonanie zadania
+        -   Co za tym idzie odkładamy na poźniej
+-   Wymówka przyjmuję różnę formy
+    -   Nie starcza Ci czasu na trening
+-   Problematyczne jest myślenie że bez sensu jest wkłądanie niewielkiej ilości czasu w jakieś zadanie
+-   Możemy to zwalczać na dwa sposoby
+    -   Dobre zaplanowanie dnia
+        -   Przeglądanie wiszących spraw codziennie/co tydzień
+            -   Wybieranie terminu realizacji zadań
+    -   Jeżeli nawet masz kilka minut na jakaś czynność to i tak spróbuj!
+        -   Wykorzystanie "krótkich interwałów czasu" na wykonanie nie wielkich postępów
+            -   Lepiej zrobić trochę niż nic
+        -   Nie masz czasu na trening?
+            -   Zrób szybki spacker 10-15 minut
+        -   Nie zdążysz załatwić wszystkich spraw zapisanych na liście?
+            -   Wybierz jedno które ma największy wpływ na Twoją pracę i zacznij od niego!
+        -   Nie masz czasu na przygotowanie raportu?
+            -   Zrób szkic i opis do zrobisz dalej jak bedziesz mieć więcej czasu
+        -   Nie uda Ci się wywiązać ze wszystkich obowiązków?
+            -   Zajmij się jednym, najwazniejszym z listy!
+-   Sama próba wykonania czegokolwiek pozwala nam na uniknięcie poczucia kompletnej porażki
+
 ## Metoda GTP
 
 ### GTP Wstęp
