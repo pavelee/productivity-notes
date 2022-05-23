@@ -1232,6 +1232,33 @@
 
 ### Zbieranie tematów
 
+-   Jesteśmy bombardowani tematami
+    -   Umiejętność zbierania ich jest kluczowe!
+-   Żadko się zdarza aby programista zajmował się tylko programowaniem w jednym projekcie
+    -   Mamy też inne obowiązki
+-   W momencie jak tematów jest zbyt dużo to odpowiedzią jest kolejkowanie
+-   Rejestr służy kolejkowaniu zadań
+    -   Każde zadanie najpierw trawia tutaj!
+    -   Dopiero jak zadanie znajduję się w rejestrze to jest brane do realizacji
+        -   To bardzo istotne! Trzymajmy się kolejności działania!
+-   Co istotne samo zarządanie rejestrem nie będzie uciążliwe, to kwestia nauki 
+-   Słowniczek
+    -   Temat - to nie skonkretyzowana rzecz która masz się zająć
+        -   "Popraw bug nr. 123"
+    -   Zadanie - powstaje w procesie analizy rejestru, określają czynność do wykonania i/lub efekt który masz uzyskać
+        -   Dobrze określone kiedy wiesz kiedy wiesz co masz zrobić
+        -   "Przygotuj scenariusz odtworzenia buga 3124"
+    -   Projekt - jest to przedsewzięcie które wymaga więcej niż jednego zadania
+-   Istotne cechy rejestru (5 cech)
+    -   Rejest jest tylko jeden
+        -   Jeśli jest więcej to który jest właściwy?
+    -   Rejestr jest widoczny
+        -   Jeśli jest gdzieś upchany to będzie bezużyteczny
+    -   Rejestr umożliwa sortowanie zadań
+        -   Im ważniejsze czym wyżej!
+    -   Rejestr umożliwa grupowania zadań
+    -   Rejestr wizualizuje postępy pracy
+
 ### Burze mózgów
 
 ### Wyodrębnianie zadań
