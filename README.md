@@ -1257,7 +1257,13 @@
     -   Rejestr umożliwa sortowanie zadań
         -   Im ważniejsze czym wyżej!
     -   Rejestr umożliwa grupowania zadań
-    -   Rejestr wizualizuje postępy pracy
+    -   Rejestr odzwierciedla postępu pracy
+-   Pro tipy
+    -   Możesz wykorzstać nawet excel!
+    -   Nie wykreślaj zadań, tylko oznacz jako zwycięstwo!
+    -   Inne narzędzia
+        -   Todoist.com
+
 
 ### Burze mózgów
 
