@@ -1275,7 +1275,46 @@
 -   Działanie z rejestrem
     -   Wrzucaj temat do rejestru, tak aby temat nie zawracał Ci głowy
     -   regularne przeglądanie rejestru
-
+    -   Sposób postępowania w zależności od tematu 
+        -   Informacja
+            -   Sprawy o których ktoś chce abym coś wiedział
+            -   Zapoznaj się z informacją i zapomnij
+        -   Decyzja
+            -   Wymaga odpowiedzi
+            -   Istotnie jest nie odkładanie decyzji na poźniej, to tworzy nam otwartą pętle w umyśle
+                -   Ciągle masz poczucie że masz coś do zrobienia
+                -   kilka otwartych spraw nas przytłacza
+                -   zwykle mamy wiele decyzji a nie pracy
+        -   Zadanie
+            -   Musisz coś zrobić!
+            -   Jeśli mniej niż 5 minut to zrób odrazu!
+                -   Czas wpisania do rejestru jest porównywalne do wykonania
+            -   Jeśli zajmię wiecej niż 5 minut to zapisz do rejestru
+            -   Określ pierwsze działanie do wykonania
+-   Przetwarzanie spraw poprzez skrzynkę
+    -   Utrzymuj skrzynkę pocztową aby była pusta
+        -   Musisz mieć poczucie że masz wszystkie sprawy są załatawione
+    -   Przenoś do folderów ręcznie
+        -   Musisz to kontrolować!
+    -   Przetwarzaj metodą FIFO
+        -   Pierwszeństwo mają tematy które wpadły wcześniej
+        -   LIFO to masakra! Oznacza chaos i ciągłą zmianę kontekstu
+        -   "Zadanie raz odłożone, dalej odkłada się samo"
+-   Problemy z wdrożeniem rejestru
+    -   Zbyt dużo tematów w jednym czasie
+        -   Multitasking
+    -   Zbyt długie procesowanie rejestru (dodawania zadania)
+-   Uważaj na narzędzia!
+    -   Nie komplikuj!
+    -   Najważniejszy jest proces działania rejestru
+-   Ćwiczenia
+    -   Używaj rejestru przez 6 dni w ciągu
+        -   Jakie trudności zauważyłeś?
+            -   Które z nich znikneły?
+            -   Które z nich zostały?
+    -   Zorganizuj swoją skrzynkę pocztową zgodnie z opisem i FIFO
+        -   Jak często przeglądasz foldery?
+        -   Która z zasad przetwarzania przynosi Ci najwięcej korzyści? Jakie?
 
 ### Burze mózgów
 
