@@ -1263,6 +1263,18 @@
     -   Nie wykreślaj zadań, tylko oznacz jako zwycięstwo!
     -   Inne narzędzia
         -   Todoist.com
+-   Inne postacie rejestru
+    -   katalogi (projekt) i pliki (zadania)
+    -   mapa myśli
+        -   punkty - projekty
+        -   odnogi - zadania
+        -   narzedzia
+            -   xmind
+            -   freemind
+            -   visio
+-   Działanie z rejestrem
+    -   Wrzucaj temat do rejestru, tak aby temat nie zawracał Ci głowy
+    -   regularne przeglądanie rejestru
 
 
 ### Burze mózgów
