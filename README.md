@@ -1318,6 +1318,77 @@
 
 ### Burze mózgów
 
+-   "Nie wiem od czego zacząć"
+    -   Programiści nazywają że są zablokowani
+    -   Nie szukaj nowych narzędzi
+        -   Brak nardzędzi jest rzadko
+    -   Nie próbuj robić planu działań
+        -   Pomysły przycodzą i odchodzą
+-   Najprostsza rada: zrób co kolwiek!
+    -   im dłużej nad tym myślisz tym bardziej komplikujesz problem
+        -   w końcu rezygnujesz i załamujesz się
+    -   Podjęcie jakiekolwiek działania zmniejsza ilość możliwości
+    -   Jak zaczniesz to automatycznie zaczniesz zadawać sobie istotne pytania
+        -   Jaka baza danych? itp
+-   Najpierw zwizualizuj swoje pomysły
+    -   Spisuj pomysły i spróbuj to sobie wyobraźić
+    -   Dopiero następnie próbuj budować plan działania
+-   Zapisz 30 pomysłów (indywidualna burza mózgów)
+    -   Czym więcej pomysłów tym lepiej
+    -   Na górze kartce zapisz pytanie na które szukasz odpowiedzi
+        -   Zapisuj wszystkie pomysły
+        -   Nie oceniaj pomysłów, tylko zapisuj
+        -   W równym tempie, płynnie
+        -   Pisz aż zdobędziesz 30 pomysłów
+        -   Dopiero po 15 pomysłach pojawią się kreatywne pomysły
+-   Narysuj swoją mape myśli
+    -   Autoanaliza, szukanie rozwiazania
+    -   Weź czystą kartkę
+    -   Na środku napisz temat
+    -   Dodawaj pytania jako odnogi
+    -   Mapa rozrasta się rekurencyjnie
+    -   Finalnie będzie to wyglądać jak neurony
+    -   Używaj rysunków, kolorów, w poziomiej orientacji
+    -   Najbardziej wartościowe rzeczy znajdziesz na skrajnych końcach mapy
+-   Cykl pracy z mapą myśli
+    -   Narysowałeś mape myśli
+        -   wynika z tego zadania i pomysły
+    -   Wyrzuć mapę
+    -   Narysuj nową mape myśli i tak dalej
+-   Duża powierzchnia jest zalecana, bo zachęca do większej ilości pomysłów
+-   Narzędzia do rysowania map myśli
+    -   Kartka i długopis
+    -   Notatki
+        -   Piszemy pełnymi zdaniami
+        -   Xmind
+-   Zespołowa burza mózgów
+    -   Powinny być zasady przeprowadzenia spotkania
+    -   Nie oceniajcie pomysłów
+    -   Rozdziel role (metoda Disney'a)
+        -   Marzyciel
+        -   Realista
+        -   Krytyk
+    -   Przygotuj uczestników
+        -   Sprawdź czy wszyscy wiedzą jak to działa
+        -   Przygotuj instrukcje dla ról
+    -   Rysuj mapę tak aby wszyscy mieli na czym się skupić
+-   Ćwiczenia
+    -   Ćwiczenie pierwsze
+        -   Oceń jak dużo masz spraw do załatwienia i przypisz do nich skale (0-10)
+        -   Na czystej kartce "Do zrobienia w najbliższym czasie" i narysuj mapę myśli na ten temat. Rysuj tak długo aż nie będzie już nic do dodania
+        -   Ponownie oceń jak dużo masz spraw do załatwienia w najbliższym czasue
+        -   Retrospekcja
+            -   Czy twoje oceny ilości rzeczy do zrobienia przed narysowaniem i po narysowaniu różnią się od siebie?
+                -   Dlaczego?
+            -   Jak nazwał byś uczucie jakie powstaje po utworzeniu mapy myśli, gdy nie ma już więcej do dodania
+    -   Ćwiczenie drugie
+        -   Przez najbliższe pięć wieczorów przygotuj mapy myśli na temat
+            -   Do zrobienia w najbliższym czasie
+        -   Retrospekcja
+            -   W jaki sposób codzienne przygotowywanie wpływa na Twoją percepcje ilości tematów do zrobienia?
+            -   Jaki użytek mógłbyś zrobić kolejnego dnia z mapy zrobionej poprzedniego wieczora?
+            -   W jakich innych sytuacjach mógłbyś wykonywać mapy myśli? Co spodziewasz się w ten sposób uzyskać?
+
 ### Wyodrębnianie zadań
 
 ### Szacowanie zadań
