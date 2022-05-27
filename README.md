@@ -1324,7 +1324,7 @@
         -   Brak nardzędzi jest rzadko
     -   Nie próbuj robić planu działań
         -   Pomysły przycodzą i odchodzą
--   Najprostsza rada: zrób co kolwiek!
+-   Najprostsza rada: zrób cokolwiek!
     -   im dłużej nad tym myślisz tym bardziej komplikujesz problem
         -   w końcu rezygnujesz i załamujesz się
     -   Podjęcie jakiekolwiek działania zmniejsza ilość możliwości
@@ -1390,6 +1390,65 @@
             -   W jakich innych sytuacjach mógłbyś wykonywać mapy myśli? Co spodziewasz się w ten sposób uzyskać?
 
 ### Wyodrębnianie zadań
+
+-   Tylko trening umożliwi Ci umiejętne wyodrębnianie zadań
+-   Problem - Formułowanie zadania w postaci uczucia
+    -   kierujemy się ekscytacją, szybko się zaplasz
+    -   przy pierwszych napotkanych problemach zaczynamy tracić zapał
+        -   demotywacja
+    -   jak temat się pogarsza, wycofujemy się lub szukamy obejścia
+-   Potrzebujesz konkretnych celów 
+    -   jednoznaczne i mierzalne cele
+-   Zadania możliwe do wykonania
+    -   Pisz pełnymi zdaniami!
+        -   "bo ja bede wiedział" - kiedy zapomnisz
+        -   Czytasz i wiesz co masz zrobić!
+        -   Konkretyzujesz myśli i zadajesz sobie dodatkowe pytania doprecyzywujące
+    -   Skieruj polecenie do wykonawcy
+        -   "Przeczytaj dalszą cześć rozdziału" zamiast "Przeczytać dalszą cześć rozdziału"
+    -   anty-test kopiuj-wklej
+        -   opis zadania musi być w kontekście zadania, konkretne i jasne
+        -   uniwersalne opisy będą zbyt bardzo ogólne
+            -   Może być do niczego
+            -   czasochłonne dostosowanie do kontekstu działania
+    -   Zadania <= 4h
+        -   Wykonanie zdania powinno mieścić się w 4h
+            -   Jeśli zajmie więcej to nie problem, celem jest konkretyzacja zdania
+        -   To wymusza konkretyzacje zadania
+            -   Zbyt ogólne zadanie staje się rozmyte i nie jasne do oszacowania
+        -   4h to na tyle mały odcinek czasu że możesz sobie wyobrazić co będziesz robić
+        -   zadań będzie więcej ale to jest ok. Chodzi konkrety! To procentuje!
+        -   Tak czy siak będziesz zmuszony do konkretyzacji zadań, lepiej wcześniej niż później
+        -   Jeśli nie potrawisz znaleść żadnego takiego zdania to muisz przemyśleć co chcesz zrobić!
+    -   Zadania z rezultatem
+        -   Jeśli cel jest mglisty to nie jesteś wstanie skutecznie go wykonać
+        -   Zadania z nie jasnym rezultatem
+            -   Przetestuj serwis ecard
+            -   Zaimplementuj dodawanie elementów do koszyka
+            -   Przygotuj dokumentacje do architektury UI
+            -   zaktuaizuj backlog
+            -   przygotuj tablice dla zespołu
+        -   Zadanie z określonym rezultatem
+            -   Napisz test dla pozytywnego scenariusza w serwisie ecard, opisanego w dokumencie X
+            -   Zaimplementuj dodawnie elementów do koszyka, jeśli do koszyka dodam element o wartości cardValue to widzę że koszyk ma wartość cardValue
+        -   Rezultat który jest możliwy do zaobserwowana i zmierzenia
+        -   Bez określenia rezultatu zdania puchną i zwiększa się ilość pracy
+            -   Nie robisz nic
+        -   Najczęstszy sposób definiowania rezultatu
+            -   Kryteria akceptacjne 
+    -   Cechy wykonywalnego zadania
+        -   Posiada jednocznacznie określony rezultat
+        -   Przechodzi anty-test kopiuj wklej
+        -   Sformułowane z założeniem że będzie trwać maksymalnie 4h
+        -   Sformułowane pełnym zdaniem do osoby wykonującej
+        -   Możesz zacząć pracować bez zastanawiania się o co chodzi
+    -   Złudzenie idelanego dnia pracy
+        -   Taki dzień to tylko rzadki przypadek
+        -   Zmieniamy kontekst w ciągu dnia
+        -   Praca z nie jasnym zdaniem to walka z ciągłym ładowaniem kontekstu 
+        -   Jeśli zdanie jest wystarczające małe to możesz je wykonać w krótkich blokach czasu
+        -   Jeśli zdanie jest konkretne to nie musisz przypominać sobie kontekstu
+        -   Wykorzystuj krótki interwały czasu w ciągu dnia!
 
 ### Szacowanie zadań
 
