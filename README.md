@@ -1449,6 +1449,76 @@
         -   Jeśli zdanie jest wystarczające małe to możesz je wykonać w krótkich blokach czasu
         -   Jeśli zdanie jest konkretne to nie musisz przypominać sobie kontekstu
         -   Wykorzystuj krótki interwały czasu w ciągu dnia!
+    -   Dekomponowanie zadań
+        -   Większa złożoność na więcej zadań o mniejszej złożoności
+        -   Największą korzyścią jest zwiększenie szansy na lepsze oszacowanie czasochłonności
+        -   Inne korzyści
+            -   Łatwiej rozpocząć wykonywanie zadania
+            -   Mniejsza skłonność do prokrastynacji (syndrom studenta)
+            -   Subiektywne odczucie że praca idzie szybciej (quick wins)
+            -   Możliwość monitorowania postępów
+                -   zrobiłem 5 zadań z 7
+    -   Mapowanie pracy
+        -   Porsty sposób na dekomponowniae zadań
+        -   Wizualizujemy zadanie (np. karteczką)
+        -   Zastanawiamy się jakie są potrzebne działania
+        -   Traktuj duże zadanie jako cel do którego prowdzą mniejsze zadania
+        -   Zadawaj sobie następujące pytania
+            -   Co należy zrobić przed małym zdaniem?
+            -   Co należy zrobić po małym zdaniu?
+            -   Czy te wszystkie małe zadania wystarczą aby wkonać duże zdanie?
+            -   Czy ktróreś z małych zdań jest nadmiarowe?
+            -   Czy wszyscy rozumieją co musimy wykonać po kolei aby zrealizować duże zdanie?
+        -   Finalnie powinna powstać grupa małych karteczek reprezentujących małe zdania
+            -   Muszą zostać wykonane w kolejności
+            -   Możliwe że niektóre będą możliwe do wykonania niezleżnie
+        -   Może się zdażyć że duże zdanie nie jest wystarczająco precyzyjne
+            -   Brakuje jasnego wyniku
+            -   Po prostu zbierz to
+        -   Może się zdarzyć że będzie sporo małych zadań, w takim przypadku to grupujcie
+        -   Może się zdarzyć że małe zadanie jest nadal zbyt duże to należy rekurencyjnie wykonać mapowanie pracy
+    -   Dekomponowanie względem architektury
+        -   Zadanie zawsze jest względem jakieś architektury
+        -   Będziesz poszukiwał informacji jak skonstruować interfejs
+        -   Pytania konkretuzyjace beda wzgledem achitektury
+            -   Czyli jak zmodyfikować system aby wykonać zdania
+    -   Musisz rozumieć architekture aplikacji
+        -   Jest to istotne aby być wstanie konkretyzować zadania
+    -   "Naszych zdań nie da się podzielić"
+        -   To jest częsta wymówka
+        -   Cała branża IT wykonuje dekompozycje
+            -   Musisz się nauczyć, to się zdarza 
+    -   Ćwiczenia
+        -   Przez najbliższy tydzień zorganizuj swój rejestr w postaci tablicy z kolumnami
+            -   Gotowe
+            -   W toku
+                -   Oznacz datę
+            -   Zrobione
+                -   Oznacz datę
+        -   Retrospekcja
+            -   Podziel karteczki na dwie grupy 
+                -   Zajeły 1 dzień lub mniej 
+                -   Zajeły więcej niż 1 dzień
+            -   Czym różnią się grupy pod względem
+                -   Sposobu sformułowania
+                -   Ilości zawartego w sobie kontekstu
+                -   Precyzji w określeniu rezultatu
+            -   Jakie praktyczne wnioski z ćwiczenia?
+            -   Który z wniosków zaczniesz praktykować już dziś
+        -   Przez najbliższy tydzień pracuj z tablica, zadbaj aby każde zadanie spełniało warunki możliwego do wykonania, w razie potrzeby podziel na mniejsze zadania
+            -   Retrospekcja
+                -   Jaką różnicę zauważyłeś po normalizacji zadań do możliwych do wykonania
+                -   Co możesz powiedzieć o swojej motywacji podczas wykonywania zadań
+                -   Czy na koniec dnia byłeś zadowolony z osiągnięć
+        -   Weź jedno nie trywalne zadanie i zdekomponuj za pomocą mapy myśli
+            -   Retrospekcja
+                -   Czy mapa myśli nadaje się do dekomponowania zadań?
+                -   Jakie są logiczne obszary na stworzonej mapie?
+        -   Dla 4 najbliższych zadań wykonaj dekompozycje za pomoca mapowania pracy
+            -   Retrospekcja
+                -   Ilu zadań nie udało Ci się przewidzieć. Dlaczego?
+                -   Jaką różnicę dostrzegasz w swojej pracy po wykonaniu dekomponownia?
+                -   Ile przecietnie czasu zajmowalo Ci wykonanie zadania?
 
 ### Szacowanie zadań
 
