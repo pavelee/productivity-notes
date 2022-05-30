@@ -1522,6 +1522,36 @@
 
 ### Szacowanie zadań
 
+-   Większość programistów szacuje
+    -   2 x przewidywany czas pracy + bufor
+    -   Mimo to chronicznym problemem jest nie doszacowanie zadań
+    -   Irytujace jest pytanie "Ile Ci to jeszcze zajmie?"
+-   Ile szacowania jest w szacowaniu?
+    -   Nie to sa metody szacowania
+        -   Wróżenie z fusów, zgadywanie
+            -   200MD
+            -   Czasem się sprawdzi, czasem nie
+            -   Jest to gra losowa
+        -   Metoda 3 miesięcy
+            -   Wiele rzeczy można szacować na 3 miesiące
+            -   Łatwa do zabudżetowania, ale na tyle długo że aby martwić się później
+        -   ekstremalnie duży bufor
+            -   Zgadywanie + super wielki bufor, tak aby zakonczyc zadanie
+        -   Sztywny deadline i praca nad zakresem
+            -   Terminowść jest umiejętnością manipulacji zakresem
+            -   Kluczem jest negocjacja
+        -   Sztywny deadline i roszady budżet
+            -   Dokończenie projektu w ramach utrzymania
+        -   metoda ekspercka
+            -   Szacuje ekspert
+            -   oparte o myślenie warunkowe
+            -   potrzeba odpowiedniego ekspertu
+        -   stożek niepewności
+            -   W miare postępów prac szacowanie pracy jest bardziej dokładne
+            -   wiążące decyzje zmniejszą zakres
+-   Co właściwe szacujemy?
+    -   Najbardziej chcemy wiedzieć ile jest jeszcze pracy przed nami, a nie ile jeszcze będzie trwała
+
 ### Planowanie
 
 ### Wykonywanie zadań
