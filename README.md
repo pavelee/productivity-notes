@@ -1588,6 +1588,11 @@
     -   Relacja ilości pracy pomiędzy zadaniami
     -   Prognoza ile roboty przed nami
 -   Metoda na upartych zleceniodawców
+    -   Story Point jest zawsze względem zespołu
+        -   Każdy zespół wycenia ilość pracy inaczej
+    -   Aby uniknąć poróywnywanie zespołów wybierzcie inne jednostki szacowania koszulki, pieski itp.
+-   Zespołowo czy indywidualnie?
+    -   Zespołowo jest lepiej bo mamy szerszą perspektywę
 
 ### Planowanie
 
