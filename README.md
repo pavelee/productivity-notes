@@ -1551,6 +1551,43 @@
             -   wiążące decyzje zmniejszą zakres
 -   Co właściwe szacujemy?
     -   Najbardziej chcemy wiedzieć ile jest jeszcze pracy przed nami, a nie ile jeszcze będzie trwała
+-   Szacowanie względne
+    -   Zawsze szukajmy ilość pracy przed nami, zmiast ile czasu to potrwa
+    -   Używaj jednostek nie związanej z czasem
+-   Jak szacować Story Points?
+    -   Przygotuj zbiór zadań, tak aby było jasne co trzeba wykonać
+    -   Przygotuj skale
+    -   Wybierzcie zadanie i omówiecie wspólnie
+    -   Umieście zadanie na skali, w miejscu uzgodnionym wspólnie
+    -   Układajacie reszte zadań na skali względem już tam umieszczonych zadań
+    -   W przypadku kiedy zadanie jest zbyt duże lub nie jest jasny wynik to umieścić w strefie "nie wiadomo, za wielkie"
+    -   Finalnie otrzymasz zadania określone na skali względem ilości potrzebnej pracy
+        -   Mogą się trawić zadania w strefie "za wielkie", takie należy doprecyzować ze zleceniodawcami
+    -   Oszacowane!
+-   Liczbowe oszacowanie Story Point
+    -   Dobrze mieć jakaś liczbę aby oznaczyć ilość pracy do wykonania
+        -   Fibonacciego
+        -   Potęg dwójki
+-   Ile pracy zespoł jest wstanie wykonać?
+    -   Jeśli jest to pierwsza iteracja to odpowiedź jest "ile wykona, tyle wykona"
+        -   zaprognozujcie tyle ile wam sie wydaje że się wykona
+        -   po pierwszej iteracji będziecie mieć liczbę do dalszych szacunków
+-   Skala dla zespołu
+    -   Przydatne jest przygotowanie skali dla zadań
+        -   Przygotuj zadania nad którymi pracował zespół przez ostatnie 3-6 iteracji
+        -   Wybierz skale którą używasz do szacowania
+        -   Dla każdej wartości ze skali przygotuj po 3 różne typy zadań
+        -   Umieść skale w widocznym miejscu
+            -   to jest pomocne w szacowaniu, poprzez przykłady
+            -   "Do którego z zadań ze skali pododobne jest to to zadanie?"
+-   O czym właściwie mówią Story Point?
+    -   Ile pracy jest do wykonania
+    -   Wysiłek jakie wymaga zadanie
+    -   Złożoność zadania
+    -   Poziom skompilowania zadania
+    -   Relacja ilości pracy pomiędzy zadaniami
+    -   Prognoza ile roboty przed nami
+-   Metoda na upartych zleceniodawców
 
 ### Planowanie
 
