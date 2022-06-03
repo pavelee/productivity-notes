@@ -1650,6 +1650,17 @@
             -   Wynagradzaj dobrze aby nie musieli kombinować
         -   Jeśli jest problem z oszacowaniem, musisz pomóc osobie
             -   Będzie to kosztować, ale nie mamy wyjścia
+    -   Ćwiczenia
+        -   Przeanalizuj swoją codzienną drogę do pracy
+            -   Czy się spóźniasz?
+            -   Czy zwykle jesteś przed czasem?
+            -   Retrospekcja
+                -   Jakie czynniki realnie wpyływają na Twoje potencjalne opóźnienie?
+                -   Które czynniki istniały bez Twojej świadomości?
+        -   Przez najbliższy tydzień szacuj swoją drogę do pracy w minutach z wykorzystaniem metody analitycznej
+            -   Retrospekcja
+                -   Czy szacowanie było trawne?
+                -   Który środek lokomocji zapewia najelpsza trafność oszacowania?
             
 ### Planowanie
 
