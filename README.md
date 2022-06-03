@@ -1630,7 +1630,26 @@
         -   Oblicz wartości oszacownia
         -   Uwzględnij wartość odchylenie standardowe z uwzględeniem przyjętem przez Ciebie pewności oszacowania
     -   Tendencja branżowe w szacowaniu
-        -   Zwykle nie doszacowujemy zadania   
+        -   Zwykle nie doszacowujemy zadania
+    -   Nie da się oszacować
+        -   Dekompozycja! Zwykle po prostu zadanie jest zbut duże
+            -   Zwykle jedno mniejsze zadanie powoduje że zadanie wydaje się nie oszacowania
+                -   Jeśli nie wiesz, po prostu przyjmij jakaś wartość np. 2h
+                -   Odblokowuje pracę
+                -   Zmniejasz myśle na "ile chcesz czasu na to przeznaczyć?"
+    -   Buduj kulturę szacowania
+        -   Unikaj ucinania szacowania
+            -   Programiści zwykle nie doszacowują!
+            -   Jesli będziesz ucinać to progarmiści będą zawyżać
+                -   To oznacza że jest ukrywana refaktoryzacja
+                -   Możliwe że praca z kodem jest trudna
+                -   Nigdy nie ma czasu na refaktoryzacje kodu
+        -   Wynagradzanie za trawne szacowanie
+            -   Samo trawne szacowania zwykle robi się to dla premii
+            -   Umiejętność szacowania jest ważna
+            -   Wynagradzaj dobrze aby nie musieli kombinować
+        -   Jeśli jest problem z oszacowaniem, musisz pomóc osobie
+            -   Będzie to kosztować, ale nie mamy wyjścia
             
 ### Planowanie
 
