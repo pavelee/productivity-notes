@@ -1229,7 +1229,6 @@
             -   Czy z powodu asertywności spotkały Cie negatywne konsekwencje?
             -   Jaki związek widziesz pomiędzy Twoją asertywnością a efektywnością oraz pozornym brakiem czasu
 
-
 ### Zbieranie tematów
 
 -   Jesteśmy bombardowani tematami
@@ -1241,7 +1240,7 @@
     -   Każde zadanie najpierw trawia tutaj!
     -   Dopiero jak zadanie znajduję się w rejestrze to jest brane do realizacji
         -   To bardzo istotne! Trzymajmy się kolejności działania!
--   Co istotne samo zarządanie rejestrem nie będzie uciążliwe, to kwestia nauki 
+-   Co istotne samo zarządanie rejestrem nie będzie uciążliwe, to kwestia nauki
 -   Słowniczek
     -   Temat - to nie skonkretyzowana rzecz która masz się zająć
         -   "Popraw bug nr. 123"
@@ -1275,7 +1274,7 @@
 -   Działanie z rejestrem
     -   Wrzucaj temat do rejestru, tak aby temat nie zawracał Ci głowy
     -   regularne przeglądanie rejestru
-    -   Sposób postępowania w zależności od tematu 
+    -   Sposób postępowania w zależności od tematu
         -   Informacja
             -   Sprawy o których ktoś chce abym coś wiedział
             -   Zapoznaj się z informacją i zapomnij
@@ -1397,7 +1396,7 @@
     -   przy pierwszych napotkanych problemach zaczynamy tracić zapał
         -   demotywacja
     -   jak temat się pogarsza, wycofujemy się lub szukamy obejścia
--   Potrzebujesz konkretnych celów 
+-   Potrzebujesz konkretnych celów
     -   jednoznaczne i mierzalne cele
 -   Zadania możliwe do wykonania
     -   Pisz pełnymi zdaniami!
@@ -1435,7 +1434,7 @@
         -   Bez określenia rezultatu zdania puchną i zwiększa się ilość pracy
             -   Nie robisz nic
         -   Najczęstszy sposób definiowania rezultatu
-            -   Kryteria akceptacjne 
+            -   Kryteria akceptacjne
     -   Cechy wykonywalnego zadania
         -   Posiada jednocznacznie określony rezultat
         -   Przechodzi anty-test kopiuj wklej
@@ -1445,7 +1444,7 @@
     -   Złudzenie idelanego dnia pracy
         -   Taki dzień to tylko rzadki przypadek
         -   Zmieniamy kontekst w ciągu dnia
-        -   Praca z nie jasnym zdaniem to walka z ciągłym ładowaniem kontekstu 
+        -   Praca z nie jasnym zdaniem to walka z ciągłym ładowaniem kontekstu
         -   Jeśli zdanie jest wystarczające małe to możesz je wykonać w krótkich blokach czasu
         -   Jeśli zdanie jest konkretne to nie musisz przypominać sobie kontekstu
         -   Wykorzystuj krótki interwały czasu w ciągu dnia!
@@ -1487,7 +1486,7 @@
     -   "Naszych zdań nie da się podzielić"
         -   To jest częsta wymówka
         -   Cała branża IT wykonuje dekompozycje
-            -   Musisz się nauczyć, to się zdarza 
+            -   Musisz się nauczyć, to się zdarza
     -   Ćwiczenia
         -   Przez najbliższy tydzień zorganizuj swój rejestr w postaci tablicy z kolumnami
             -   Gotowe
@@ -1496,8 +1495,8 @@
             -   Zrobione
                 -   Oznacz datę
         -   Retrospekcja
-            -   Podziel karteczki na dwie grupy 
-                -   Zajeły 1 dzień lub mniej 
+            -   Podziel karteczki na dwie grupy
+                -   Zajeły 1 dzień lub mniej
                 -   Zajeły więcej niż 1 dzień
             -   Czym różnią się grupy pod względem
                 -   Sposobu sformułowania
@@ -1593,7 +1592,46 @@
     -   Aby uniknąć poróywnywanie zespołów wybierzcie inne jednostki szacowania koszulki, pieski itp.
 -   Zespołowo czy indywidualnie?
     -   Zespołowo jest lepiej bo mamy szerszą perspektywę
-
+-   Metoda PERT (Program Evaluation and Review Technique)
+    -   Szacowanie względne jest heurystyczne
+        -   Nie istnieje perfekcyjna metoda szacowania
+    -   Jest to metoda analityczna, algorytm
+    -   Szacowanie trzy punktowe
+        -   Dekompozycja    
+            -   Łatwiej szacować podzadania
+        -   Średnia ważona
+            -   Wartość optymistyczna 
+            -   Wartość prawdopodobna (ile czasu zajmuje zadanie tego typu)
+            -   Wartość pesymistycznej
+            -   Oczekiwanie = (Wartość optymistyczna + 4 * wartość prawdopodobna + wartość pesymistyczna) / 6
+            -   Czemu trzy liczby?
+                -   Programiści zwykle szacują zbytnio optymistycznie
+                -   Uczy Cie patrzenia przez szersze spektrum problemu
+                -   Mniejszy stres
+        -   Lista kontrolna szacowania (co należy zawsze uwzględnić)
+            -   Czy uwzględniłeś aktualizacje dokumentacji użytkownika?
+            -   Czy uwzględniłeś czas na aktualizacje dokumentacji technicznej?
+            -   Czy uwzględniłeś testy deweloperskie?
+            -   Czy uwzględniłęś skrypty migracyjne?
+            -   Czy uwzględniłeś odtworzenie testów do isniejącego kodu?
+            -   Czy uwzględniłeś czas na refaktoryzacje kodu? (jeśli konieczne)
+            -   Czy spisałeś założenia przyjęte na potrzeby szacowania? 
+            -   Czy jest potrzebna zmiana konfiguracji serwera?
+            -   Czy uwzględniłęś czas na krótkie podsumowanie zadania?
+        -   pewność oszacowania
+            -   mamy 50% szansy na dobre oszacowanie
+    -   Proces szacowania zadania programistycznego
+        -   Zdekomponuj zadanie
+        -   Oszacuj za pomocą trzech wartości
+            -   Optymistycznej
+            -   Prawdopodobnej
+            -   Pesymistycznej
+        -   Zweryfikuj z listą kontrolną szacowania. Czy wszystko uwzględniłeś?
+        -   Oblicz wartości oszacownia
+        -   Uwzględnij wartość odchylenie standardowe z uwzględeniem przyjętem przez Ciebie pewności oszacowania
+    -   Tendencja branżowe w szacowaniu
+        -   Zwykle nie doszacowujemy zadania   
+            
 ### Planowanie
 
 ### Wykonywanie zadań
