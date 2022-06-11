@@ -1663,6 +1663,38 @@
                 -   Który środek lokomocji zapewia najelpsza trafność oszacowania?
             
 ### Planowanie
+-   Czy miałeś poczucie
+    -   Dzień przeciekł przez palce?
+    -   Pracowałeś 8h ale nie jesteś wstanie określić efektu tej pracy
+    -   To oznacza że masz problem z planowaniem pracy dnia
+-   Wyznacz sobie cel dnia!
+    -   Zrobienie tylko tego jednego zdania będzie dla Ciebie satysfakcujące
+    -   Nawet jeśli reszta dnia to był chaos, to zawsze masz ogarinęty najważniejszy punkt dnia
+    -   Cel dnia powinnien być tylko jeden
+        -   Niestety mamy tendencje do ciężkiej pracy ale nie bez skutku
+            -   Nie doprowadzamy zadań do finału
+        -   Chcemy zrobić choć jedną rzecz do końca, być skutecznym
+-   Unikaj pracy w międzyczasie
+    -   Zawsze kieruj się na pełnym skupieniu na projekcie
+    -   praca w międzyczasie to zabójca Twojej efektywności
+-   Planuj każdy dzień
+    -   Usiądź na chwile w ciszy
+    -   Przeżyj swój rejestr zadań
+    -   Ustalił cel dnia
+    -   kolejne zadania do wykonania na dziś
+    -   całość nie powinna zająć więcej niż 5 minut!
+-   Każdy dzień zaczynaj od planowania, zamiast kawy przy przeglądania internetu
+    -   To nie jest problem, kwestia wyrobienia nawyku
+    -   Jest to istotny krok nad zwiększaniem Twojej efektywności
+-   Rozpoczynaj prace o stałej porze
+    -   Jeśli codziennie rozpoczynasz prace o innej porze to zaburzasz swój rytm dnia
+    -   Rytm dnia pozwala na wykonywanie czynności automatycznie i lepiej planować czas
+        -   Jeśli wiesz że o 13 jesz posiłek to będziesz lepiej planować pracę, tak aby wykonać coś istotnego przed posiłkiem
+    -   Jeśli normalnie zaczynasz prace o 8 ale zaśpisz to zapewne nie wykonasz porannego planowania itp.
+-   Oddzielaj pracę od posiłku
+    -   Istotne oddzielenie pozwoli Ci oderwać się od stanu emocjonalnego ktory odczywasz podczas pracy przy komputerze
+    -   Taki kontrast pozwoli Ci na odświeżenie umysłu
+    -   Jeśli przy tym samym komputerze zaczynasz jeść i oglądać YT, to będzie Ci ciężej skupić się na pracy, Twój umysł będzie to kojarzył właśnie z tymi rozrywkami (uwarunkowanie)
 
 ### Wykonywanie zadań
 
