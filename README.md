@@ -1775,3 +1775,48 @@
         -   Posortuj zadania według priorytetów
     -   Wykonuj zadania
     -   Przeprowadź retrospekcje
+
+#### Wykonywanie zadań
+
+-   Skupienie
+    -   Praca programistów jest inna niż typowe biurowe zadania
+    -   Praca programistów jest pracą kreatywną, wymaga dużo skupienia i dbałości o szczegóły
+-   Dlaczego programowanie jest przyjemne?
+    -   Stan emocjonalny "przepływu" to maksymalne skupienie i oddanie się wykonywanej czynności
+        -   Czas przestaje istnieć, zostaje tylko zadanie
+-   Jak wejść do strefy?
+    -   Masz jasne i zrozumiałe cele
+    -   Otrzymujesz bezpośrednie i natychmiastowe informacje zwrotne 
+    -   Zadanie jest dopasowane do umiejętności
+-   Minusy programowania w strefie
+    -   Czasami można minąć się z celem biznesowym
+        -   Możemy napisać kod który nie będzie realnie potrzebny
+    -   Jak z tym walczyć?
+        -   Programowanie w parach
+            -   Jedna osoba pisze kod, druga jest obserwatorem. Obserwator zdaje pytania do kodu.
+        -   Test First Principle
+            -   Najpierw sofmułuj test do kodu który napiszesz
+            -   To Cie zmusza do objęcie stanowiska obserwatora swojego rozwiązania
+        -   Napisz to co zamierzasz zakodować
+            -   Zanim napiszesz kod, napisz pełnymi zdaniami to co zamierzasz zakodowac (komentarze)
+                -   Układanie planu zanim zaczniesz
+-   Rozpraszacze
+    -   Zapisz do rejestru i wracaj do pracy
+        -   Tylko krytyczne sprawy robimy bez kolejki
+    -   Mamy rozpraszacze zewnetrzne i wewnetrzne
+        -   zewnetrzne
+            -   inni ludzie
+            -   spotkania
+        -   wewnetrzne
+            -   multitasking
+            -   brak asertywnosci
+-   Zacznij od zadania ktore jest najtrudniejsze, inaczej bedziesz to odkladac
+    -   Skuteczna technika walki z prokrastynacją
+    -   Zaczynam dzień od zadania które jest trudne i zwykle odkłdamy na "jutro"
+-   10 minutowe zadanie
+    -   motywacja pojawia sie kiedy widac efekty
+    -   Po prostu zacznij robić to co masz robić, motywacja pojawi się
+- pomodoro
+    -   technika pracy w blokach czasu
+        -   25 minut praca, 5 minut przerwa
+        -   powolne zwiększnanie bloku pracy, cwiczenie utrzymywania koncentracji
