@@ -1737,3 +1737,41 @@
     -   wykreujesz wizje
     -   zgormadzisz całą masę złych pomysłów
     -   doświadczysz tzw. "kreatywnej obstrukcji"
+-   Harmonogram pracy programisty
+    -   "Do południa walczysz z głodem, po południu ze snem"
+    -   Harmonogram to tylko wyznaczenie godzin na określone aktywności
+        -   9 - 13
+            -    zadania kreatywne, programownie
+        -   13 - 15
+            -   dokumentacja, mniej ważne zadania
+        -   15 - 17
+            -   analiza, maile, planowanie
+    -   Trzymaj się harmonogramu!
+        -   Jeśli teraz jest czas na programowanie
+            -   wyłacz komunikator, maila, telefon
+            -   programuj!
+    -   Zespoły z harmonogramem pracy programisty jest korzystne dla efektywności
+    -   Problemy
+        -   Klienci kontakt
+            -   Ustal kiedy klienci moga się kontaktować z klientami (harmonogram)
+        -   Niestety czasami trzeba zareagować jak jest pożar
+    -   Ustal sygnał zajętości
+        -   Umowa pomiędzy z członkami zespołu jak komunikować że jestem zajęty
+    -   Ciche dni
+        -   Przeznacz jeden/więcej dni na skupienie się na pracy
+    -   Jeśli potrzebujesz odbierać maila (wdrożenie)
+        -   Monitorujący programista, zmieniamy się i pilnujemy skrzynki
+        -   Kierujemy maile na zespół, obsługuje ten kto teraz ma jakiś czas
+    -   Nadaj sztywny czas pracy (bloki)
+    -   Zawsze pracuj zgodnie z FIFO
+-   Dzienny proces pracy programisty
+    -   Przeanalizuj co masz do zrobienia
+        -   Przygouj mapę mysli z tematami na dziś
+        -   Przejżyj rejestr
+    -   Określ priorytety
+    -   Ustal cel dnia
+    -   Przygotuj listy zadań
+        -   Cel dnia umieść na początku
+        -   Posortuj zadania według priorytetów
+    -   Wykonuj zadania
+    -   Przeprowadź retrospekcje
